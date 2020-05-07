@@ -11,7 +11,7 @@ import "./MixinResolver.sol";
 
 
 // https://docs.synthetix.io/contracts/Depot
-contract Depot is SelfDestructible, Pausable, ReentrancyGuard, MixinResolver 
+contract Depot is SelfDestructible, Pausable, ReentrancyGuard, MixinResolver {
     using SafeMath for uint;
     using SafeDecimalMath for uint;
 
