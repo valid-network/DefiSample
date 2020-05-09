@@ -10,7 +10,8 @@ const Proxy = artifacts.require('Proxy');
 const AddressResolver = artifacts.require('AddressResolver');
 
 const { currentTime, toUnit, ZERO_ADDRESS } = require('../utils/testUtils');
-const { toBytes32 } = require('../../.');
+const w3utils = require('web3-utils');
+const toBytes32 = key => w3utils.rightPad(w3utils.asciiToHex(key), 64);
 
 const {
 	issueSynthsToUser,

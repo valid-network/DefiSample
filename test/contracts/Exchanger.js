@@ -7,6 +7,7 @@ const Synth = artifacts.require('Synth');
 const Exchanger = artifacts.require('Exchanger');
 const ExchangeState = artifacts.require('ExchangeState');
 const DelegateApprovals = artifacts.require('DelegateApprovals');
+const w3utils = require('web3-utils');
 
 const {
 	currentTime,
@@ -28,7 +29,7 @@ const {
 	setStatus,
 } = require('../utils/setupUtils');
 
-const { toBytes32 } = require('../..');
+const toBytes32 = key => w3utils.rightPad(w3utils.asciiToHex(key), 64);
 
 const bnCloseVariance = '30';
 

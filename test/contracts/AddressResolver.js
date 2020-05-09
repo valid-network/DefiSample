@@ -1,10 +1,12 @@
-require('.'); // import common test scaffolding
+require('index'); // import common test scaffolding
+const w3utils = require('web3-utils');
 
-const { toBytes32 } = require('../..');
-const { onlyGivenAddressCanInvoke } = require('../utils/setupUtils');
+const setupUtils = require('../utils/setupUtils');
+
 const { ZERO_ADDRESS } = require('../utils/testUtils');
 
 const AddressResolver = artifacts.require('AddressResolver');
+const toBytes32 = key => w3utils.rightPad(w3utils.asciiToHex(key), 64);
 
 contract('AddressResolver', accounts => {
 	const [deployerAccount, owner, account1, account2, account3, account4] = accounts;
@@ -18,7 +20,7 @@ contract('AddressResolver', accounts => {
 	});
 	describe('importAddresses()', () => {
 		it('can only be invoked by the owner', async () => {
-			await onlyGivenAddressCanInvoke({
+			await setupUtils.onlyGivenAddressCanInvoke({
 				fnc: resolver.importAddresses,
 				args: [[toBytes32('something')], [account1]],
 				address: owner,
@@ -27,6 +29,7 @@ contract('AddressResolver', accounts => {
 		});
 		describe('when a different number of names are given to addresses', () => {
 			it('then it reverts', async () => {
+
 				await assert.revert(
 					resolver.importAddresses([], [account1], { from: owner }),
 					'Input lengths must match'

@@ -8,7 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/synthetix_io.svg?label=synthetix_io&style=social)](https://twitter.com/synthetix_io)
 
 ## Protocol Overview
-
+d
 Synthetix is a crypto-backed synthetic asset platform.
 
 It is a multitoken system, powered by SNX, the Synthetix Network Token. SNX holders can stake `SNX` to issue `sUSD`, on-chain synthetic assets via the [Mintr dApp](https://mintr.synthetix.io) The network currently supports an ever growing [list of synthetic assets](https://docs.synthetix.io/tokens/). Please see the [list of the deployed contracts on `mainnet` and testnets](https://docs.synthetix.io/addresses). Synths can be traded using the [synthetix.exchange](https://synthetix.exchange) dApp.

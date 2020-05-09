@@ -9,7 +9,8 @@ const SupplySchedule = artifacts.require('SupplySchedule');
 const ExchangeRates = artifacts.require('ExchangeRates');
 const Issuer = artifacts.require('Issuer');
 
-const { toBytes32 } = require('../..');
+const w3utils = require('web3-utils');
+const toBytes32 = key => w3utils.rightPad(w3utils.asciiToHex(key), 64);
 
 const {
 	currentTime,

@@ -9,7 +9,8 @@ const SystemStatus = artifacts.require('SystemStatus');
 const abiDecoder = require('abi-decoder');
 
 const { currentTime, toUnit } = require('../utils/testUtils');
-const { toBytes32 } = require('../../.');
+const w3utils = require('web3-utils');
+const toBytes32 = key => w3utils.rightPad(w3utils.asciiToHex(key), 64);
 
 module.exports = {
 	/**
@@ -90,6 +91,7 @@ module.exports = {
 			if (user === address) {
 				continue;
 			}
+
 			await assert.revert(fnc(...args, { from: user }), reason);
 		}
 		if (!skipPassCheck && address) {

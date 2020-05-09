@@ -6,6 +6,9 @@ import "./State.sol";
 // https://docs.synthetix.io/contracts/TokenState
 contract TokenState is State {
     /* ERC20 fields. */
+    // slot 0 = owner (Owned)
+    // slot 1 = nominatedOwner (Owned)
+    // slot 2 = associatedContract (State)
     mapping(address => uint) public balanceOf;
     mapping(address => mapping(address => uint)) public allowance;
 

@@ -6,7 +6,8 @@ const Synth = artifacts.require('Synth');
 const Issuer = artifacts.require('Issuer');
 
 const { toUnit } = require('../utils/testUtils');
-const { toBytes32 } = require('../..');
+const w3utils = require('web3-utils');
+const toBytes32 = key => w3utils.rightPad(w3utils.asciiToHex(key), 64);
 
 contract('SynthetixState', async accounts => {
 	const sUSD = toBytes32('sUSD');

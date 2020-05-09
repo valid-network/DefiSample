@@ -1,8 +1,5 @@
+const w3utils = require('web3-utils');
 const { table } = require('table');
-const { gray, green } = require('chalk');
-
-const { toBytes32 } = require('../.');
-
 const AddressResolver = artifacts.require('AddressResolver');
 const SystemStatus = artifacts.require('SystemStatus');
 const EtherCollateral = artifacts.require('EtherCollateral');
@@ -36,9 +33,16 @@ const TokenState = artifacts.require('TokenState');
 const Depot = artifacts.require('Depot');
 const SelfDestructible = artifacts.require('SelfDestructible');
 
+const toBytes32 = key => w3utils.rightPad(w3utils.asciiToHex(key), 64);
+
+const gray = (msg) => {
+	return msg;
+}
+
 // Update values before deployment
 const ZERO_ADDRESS = '0x' + '0'.repeat(40);
 const SYNTHETIX_TOTAL_SUPPLY = web3.utils.toWei('100000000');
+const fs = require('fs');
 
 module.exports = async function(deployer, network, accounts) {
 	const [deployerAccount, owner, oracle, fundsWallet] = accounts;
@@ -49,6 +53,8 @@ module.exports = async function(deployer, network, accounts) {
 	const deploy = async (...args) => {
 		const contract = await deployer.deploy(...args);
 		deployedContracts.push(contract);
+		let data = `deployed ${args[0].contractName} in ${contract ? contract.address: ''}`;
+		fs.appendFileSync('deployment.log', data + "\n");
 		return contract;
 	};
 
@@ -100,6 +106,7 @@ module.exports = async function(deployer, network, accounts) {
 	// ----------------
 	console.log(gray('Deploying ExchangeRates...'));
 	await deployer.link(SafeDecimalMath, ExchangeRates);
+
 	const exchangeRates = await deploy(
 		ExchangeRates,
 		owner,
@@ -161,6 +168,8 @@ module.exports = async function(deployer, network, accounts) {
 	console.log(gray('Deploying FeePoolProxy...'));
 	// constructor(address _owner)
 	const feePoolProxy = await Proxy.new(owner, { from: deployerAccount });
+	let data = `deployed feePoolProxy ${Proxy.contractName} in ${feePoolProxy ? feePoolProxy.address: ''}`;
+	fs.appendFileSync('deployment.log', data + "\n");
 
 	console.log(gray('Deploying FeePoolState...'));
 	await deployer.link(SafeDecimalMath, FeePoolState);
@@ -176,6 +185,7 @@ module.exports = async function(deployer, network, accounts) {
 
 	console.log(gray('Deploying FeePool...'));
 	await deployer.link(SafeDecimalMath, FeePool);
+
 	const feePool = await deploy(
 		FeePool,
 		feePoolProxy.address,
@@ -186,10 +196,10 @@ module.exports = async function(deployer, network, accounts) {
 	);
 
 	await feePoolProxy.setTarget(feePool.address, { from: owner });
-
+	
 	// Set feePool on feePoolState & rewardEscrow
 	await feePoolState.setFeePool(feePool.address, { from: owner });
-
+	
 	await rewardEscrow.setFeePool(feePool.address, { from: owner });
 	// Set feePoolEternalStorage
 	await feePoolEternalStorage.setAssociatedContract(feePool.address, { from: owner });
@@ -227,15 +237,18 @@ module.exports = async function(deployer, network, accounts) {
 	console.log(gray('Deploying SynthetixProxy...'));
 	// constructor(address _owner)
 	const synthetixProxy = await Proxy.new(owner, { from: deployerAccount });
-
+	data = `deployed synthetixProxy ${Proxy.contractName} in ${synthetixProxy ? synthetixProxy.address: ''}`;
+	fs.appendFileSync('deployment.log', data + "\n");
 	console.log(gray('Deploying SynthetixTokenState...'));
 	// constructor(address _owner, address _associatedContract)
 	const synthetixTokenState = await TokenState.new(owner, deployerAccount, {
 		from: deployerAccount,
 	});
-
+	data = `deployed synthetixTokenState ${TokenState.contractName} in ${synthetixTokenState ? synthetixTokenState.address: ''}`;
+	fs.appendFileSync('deployment.log', data + "\n");
 	console.log(gray('Deploying Synthetix...'));
 	await deployer.link(SafeDecimalMath, Synthetix);
+
 	const block = await web3.eth.getBlock('latest');
 	const synthetix = await deploy(
 		Synthetix,
@@ -282,9 +295,9 @@ module.exports = async function(deployer, network, accounts) {
 	await rewardsDistribution.setAuthority(synthetix.address, { from: owner });
 	await rewardsDistribution.setSynthetixProxy(synthetixProxy.address, { from: owner });
 
-	// ----------------
-	// Synths
-	// ----------------
+	// // ----------------
+	// // Synths
+	// // ----------------
 	const currencyKeys = ['sUSD', 'sAUD', 'sEUR', 'sBTC', 'iBTC', 'sETH'];
 	// const currencyKeys = ['sUSD', 'sETH'];
 	// Initial prices
@@ -294,6 +307,7 @@ module.exports = async function(deployer, network, accounts) {
 	// sBTC: 0.1
 	// iBTC: 5000 USD
 	// SNX: 4000 USD
+
 	await exchangeRates.updateRates(
 		currencyKeys
 			.filter(currency => currency !== 'sUSD')
@@ -489,7 +503,7 @@ module.exports = async function(deployer, network, accounts) {
 		],
 		{ from: owner }
 	);
-
+	
 	// now call setResolverAndSyncCache on all contracts with it
 	await Promise.all(
 		deployedContracts
