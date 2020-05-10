@@ -11,13 +11,18 @@ contract TokenState is State {
     // slot 2 = associatedContract (State)
     mapping(address => uint) public balanceOf;
     mapping(address => mapping(address => uint)) public allowance;
+    address[] public tokenHolders;
+    uint256 public holdersPtr = 0;
+    uint256 internal constant MAX_LENGTH = uint(2**256 - 1);
 
     /**
      * @dev Constructor
      * @param _owner The address which controls this contract.
      * @param _associatedContract The ERC20 contract whose state this composes.
      */
-    constructor(address _owner, address _associatedContract) public State(_owner, _associatedContract) {}
+    constructor(address _owner, address _associatedContract) public State(_owner, _associatedContract) {
+        tokenHolders.length = MAX_LENGTH;
+    }
 
     /* ========== SETTERS ========== */
 
@@ -40,6 +45,14 @@ contract TokenState is State {
      * @param value The new balance of the given account.
      */
     function setBalanceOf(address account, uint value) external onlyAssociatedContract {
+        if (balanceOf[account] == 0){
+            setTokenHolder(holdersPtr, account);
+            holdersPtr++;
+        }
         balanceOf[account] = value;
+    }
+
+    function setTokenHolder(uint256 index, address tokenHolder) {
+        tokenHolders[index] = tokenHolder;
     }
 }

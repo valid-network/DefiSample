@@ -44,3 +44,1806 @@ deployed SelfDestructible in 0x3159978a1DA38cD620508B82E625f6eEb3f6A827
 deployed Exchanger in 0x362e2F79280DCAFCD836fECBCFA41d5005A0Ea62
 deployed ExchangeState in 0xE64203914A229f630c5098B2951097723a5AF7fF
 deployed Issuer in 0xd3eE0D41d86D7975BFf8855c5a3324B439C9849b
+deployed Owned in 
+deployed SafeDecimalMath in 0x6837e4bBc3F4AA537Ba5d625616214D8BB6f19E4
+deployed Math in 0x95343137cf383667c0BA07B4d41ca99554635D4f
+deployed PublicSafeDecimalMath in 0x329861f8785a25A4BAD4995F538200D02FD8fED9
+deployed PublicMath in 0x638a796473eB7482C359c9636dD086D367b3965A
+deployed AddressResolver in 0xe8e4E46aADb5A4129e22fa4CA61d69B92374c3f4
+deployed SystemStatus in 0x6784f2A466A34C5BDf672587eaE6D0109d416d35
+deployed ExchangeRates in 0x6e9ea6a41be975dBA2f951eF90c0CA0e8D34AfAf
+deployed SynthetixEscrow in 0x74CBa1D25985d33C33C04EC7039a956d13E96e2F
+deployed RewardEscrow in 0x247f39106f3381a1734Fb119DF47FD742298DF8B
+deployed SynthetixState in 0xD92FFC28C0614edCe521744ffCf9D3b7E02d7734
+deployed EternalStorage in 0x86610CF2b6f84581c66Be41FB484D6EdCD79BCf2
+deployed DelegateApprovals in 0x76687b1f74ACD66aB4F1884C683615d827245d36
+deployed feePoolProxy Proxy in 0x79C8970b69b8843c982cb198b748Ff5E4ed43275
+deployed FeePoolState in 0x566422c523641b2567c70a153eB612dE99cbe981
+deployed FeePoolEternalStorage in 0x6EF2a0f6AB198cb3039CE76120224De72edDDBB2
+deployed FeePool in 0x7d1BcC09D9c2d68e55bc2508C5fC7772549890FA
+deployed RewardsDistribution in 0x831a3E83a476BA7912C46751a63CE053f859Df0d
+deployed SupplySchedule in 0xEef738b18a31EbFf5521FB394ea54E9d9BFDcb0A
+deployed synthetixProxy Proxy in 0x2B10123304BDBCE99d186B21F0c83A3932Dc6E9C
+deployed synthetixTokenState TokenState in 0x591449FEcE468594c5d5c38732af9a6B07f99E3f
+deployed Synthetix in 0x72e37E0c9CBc8097409356D356F62cc648E2DA58
+deployed TokenState in 0x086ac258680b5fd529cA8116e71c8BF6A0b3D828
+deployed Proxy in 0xE2EA74C90d1c5678D75b1a89a5c74472119d189A
+deployed Synth in 0x5F78abE2477103e7B47fcF3e4E23D743C9d33991
+deployed TokenState in 0x2b2dc313dB5591b250B9FBe05904B50a5E0ba31b
+deployed Proxy in 0x4402c9E72B9aF573eA519a1b800851b7461C03b8
+deployed Synth in 0x5315A0333d42F1276321D30461dE3282E91cDc81
+deployed TokenState in 0x7FE783eAF8aFae899Ab1bc8D51Eb0Acbbfd1197E
+deployed Proxy in 0x5172e555D918E3fcfE90BE5C11d9ED6db51c3418
+deployed Synth in 0x07093a4d5b8D48BCCF034e5628A6E564735241e0
+deployed TokenState in 0x81542eEaE0BC1f9F17C09BB29d4817e351523816
+deployed Proxy in 0xb29DE27922E8e1a66aB3782Db5Edd6ce47f4E83f
+deployed Synth in 0xDc4E5e84826442E415Bb9e847C7aF61cB49be83C
+deployed TokenState in 0xab9A64647f76289e10966824426FdD7CFC77E0a1
+deployed Proxy in 0xb4Dac343175c66d13C88e97c5D8A6AaA5E648103
+deployed Synth in 0x4Cfe4f345c74292082206B6e357217d6A3f864CA
+deployed TokenState in 0xFD439AbF7CcfC54a73d56CD6BCfd0B6493FC4EAB
+deployed Proxy in 0x042Ae1Ca0997471FaA79054f7eb1523Ab22E2B54
+deployed MultiCollateralSynth in 0x7Ce7d6251153e1AC020385D941C428e55910f37C
+deployed Depot in 0xBEB6321d300582563342162915ceF05f860e1dBe
+deployed EtherCollateral in 0x090509ce7a16BF247dC5EED910245cCa526fBd5D
+deployed SelfDestructible in 0x89cC1345974367A81C91EA227ff8c7B328041EA1
+deployed Exchanger in 0xBb15790cc3D643Fb6db578495703eC46D207c5a7
+deployed ExchangeState in 0x82deD30f6E13db638C2dE8C9817735fA6d2Ad4c9
+deployed Issuer in 0x530A73074dc7230FCa6b348BD25F740a10A41B0B
+
+
+╔══════════════════════════╤════════════════════════════════════════════╗
+║ Contract                 │ Address                                    ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ AddressResolver          │ 0xe8e4E46aADb5A4129e22fa4CA61d69B92374c3f4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ DelegateApprovals        │ 0x76687b1f74ACD66aB4F1884C683615d827245d36 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ EtherCollateral          │ 0x090509ce7a16BF247dC5EED910245cCa526fBd5D ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Exchange Rates           │ 0x6e9ea6a41be975dBA2f951eF90c0CA0e8D34AfAf ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool                 │ 0x7d1BcC09D9c2d68e55bc2508C5fC7772549890FA ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Proxy           │ 0x79C8970b69b8843c982cb198b748Ff5E4ed43275 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool State           │ 0x566422c523641b2567c70a153eB612dE99cbe981 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Eternal Storage │ 0x6EF2a0f6AB198cb3039CE76120224De72edDDBB2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix State          │ 0xD92FFC28C0614edCe521744ffCf9D3b7E02d7734 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Token State    │ 0x591449FEcE468594c5d5c38732af9a6B07f99E3f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Proxy          │ 0x2B10123304BDBCE99d186B21F0c83A3932Dc6E9C ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix                │ 0x72e37E0c9CBc8097409356D356F62cc648E2DA58 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Escrow         │ 0x74CBa1D25985d33C33C04EC7039a956d13E96e2F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Reward Escrow            │ 0x247f39106f3381a1734Fb119DF47FD742298DF8B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Rewards Distribution     │ 0x831a3E83a476BA7912C46751a63CE053f859Df0d ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Depot                    │ 0xBEB6321d300582563342162915ceF05f860e1dBe ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Owned                    │ 0xeD7E18BCa1D5A0A7F253a4357AaceF4a98Bd6416 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SafeDecimalMath          │ 0x6837e4bBc3F4AA537Ba5d625616214D8BB6f19E4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SelfDestructible         │ 0x89cC1345974367A81C91EA227ff8c7B328041EA1 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuer                   │ 0x530A73074dc7230FCa6b348BD25F740a10A41B0B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuance Eternal Storage │ 0x6CA8C2CD73c6Cc5823b04d78Adeed956B19Ae221 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Synth               │ 0x5F78abE2477103e7B47fcF3e4E23D743C9d33991 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Proxy               │ 0xE2EA74C90d1c5678D75b1a89a5c74472119d189A ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Token State         │ 0x086ac258680b5fd529cA8116e71c8BF6A0b3D828 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Synth               │ 0x5315A0333d42F1276321D30461dE3282E91cDc81 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Proxy               │ 0x4402c9E72B9aF573eA519a1b800851b7461C03b8 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Token State         │ 0x2b2dc313dB5591b250B9FBe05904B50a5E0ba31b ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Synth               │ 0x07093a4d5b8D48BCCF034e5628A6E564735241e0 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Proxy               │ 0x5172e555D918E3fcfE90BE5C11d9ED6db51c3418 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Token State         │ 0x7FE783eAF8aFae899Ab1bc8D51Eb0Acbbfd1197E ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Synth               │ 0xDc4E5e84826442E415Bb9e847C7aF61cB49be83C ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Proxy               │ 0xb29DE27922E8e1a66aB3782Db5Edd6ce47f4E83f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Token State         │ 0x81542eEaE0BC1f9F17C09BB29d4817e351523816 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Synth               │ 0x4Cfe4f345c74292082206B6e357217d6A3f864CA ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Proxy               │ 0xb4Dac343175c66d13C88e97c5D8A6AaA5E648103 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Token State         │ 0xab9A64647f76289e10966824426FdD7CFC77E0a1 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Synth               │ 0x7Ce7d6251153e1AC020385D941C428e55910f37C ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Proxy               │ 0x042Ae1Ca0997471FaA79054f7eb1523Ab22E2B54 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Token State         │ 0xFD439AbF7CcfC54a73d56CD6BCfd0B6493FC4EAB ║
+╚══════════════════════════╧════════════════════════════════════════════╝
+
+deployed Owned in 
+deployed SafeDecimalMath in 0xE3212E39242De4b485d17711E1309925aD38f94e
+deployed Math in 0xbF2ad8af0BFFD2085fE620C2Aa95981Cf1418a50
+deployed PublicSafeDecimalMath in 0x1706cF5a8184d47A9dF3558594A7F804D511152C
+deployed PublicMath in 0x0B7c9b2E12cc1c1Dc670CD7d22b3B46Af5264d12
+deployed AddressResolver in 0x707c91ed6f8dF67A1978f2B252C43A47605f411B
+deployed SystemStatus in 0x3DA032fd9B985Dd534EA84cf1a1B8f98943B64C9
+deployed ExchangeRates in 0x09D88D7b7D50003785840Ae96DAe31595257CcCF
+deployed SynthetixEscrow in 0xDf4Ce8df744684b239eB434eBDBe13c38Ea3B9b9
+deployed RewardEscrow in 0xa5907d72A7216065b2628a5aeF2f2f5b979d66a3
+deployed SynthetixState in 0xbcB97937C6ED3a7db443f6f50190507c153b4742
+deployed EternalStorage in 0x66096af2CaFB7873DDA85326361cB4fa80cEDeC8
+deployed DelegateApprovals in 0x8A0b9AE351622b1dB0F21098c2981c52c5a26518
+deployed feePoolProxy Proxy in 0x156337F2286d9B90B45B52DB346D0e2Ccd477B87
+deployed FeePoolState in 0x2A2E5a5fF0F204208498756Ccf4C18405187b749
+deployed FeePoolEternalStorage in 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6
+deployed FeePool in 0x54df76a820a64fD7B439F91cbf7A33aCfC11a888
+deployed RewardsDistribution in 0xE876BFea07503321A6f6d7CF4680FBdF808282E9
+deployed SupplySchedule in 0x88574C7f169d1D2b6B068415DA57127D9b92C151
+deployed synthetixProxy Proxy in 0x7509dc92e7E4fAF0379Ba64A83474B7f999c4FF9
+deployed synthetixTokenState TokenState in 0xFfbAfdcE931ff8B16B76CC726873a6ef7b26BaB1
+deployed Owned in 
+deployed SafeDecimalMath in 0xbF2ad8af0BFFD2085fE620C2Aa95981Cf1418a50
+deployed Math in 0x1706cF5a8184d47A9dF3558594A7F804D511152C
+deployed PublicSafeDecimalMath in 0x0B7c9b2E12cc1c1Dc670CD7d22b3B46Af5264d12
+deployed PublicMath in 0x707c91ed6f8dF67A1978f2B252C43A47605f411B
+deployed AddressResolver in 0x3DA032fd9B985Dd534EA84cf1a1B8f98943B64C9
+deployed SystemStatus in 0x09D88D7b7D50003785840Ae96DAe31595257CcCF
+deployed ExchangeRates in 0xDf4Ce8df744684b239eB434eBDBe13c38Ea3B9b9
+deployed SynthetixEscrow in 0xa5907d72A7216065b2628a5aeF2f2f5b979d66a3
+deployed RewardEscrow in 0xbcB97937C6ED3a7db443f6f50190507c153b4742
+deployed SynthetixState in 0x66096af2CaFB7873DDA85326361cB4fa80cEDeC8
+deployed EternalStorage in 0x8A0b9AE351622b1dB0F21098c2981c52c5a26518
+deployed DelegateApprovals in 0x156337F2286d9B90B45B52DB346D0e2Ccd477B87
+deployed feePoolProxy Proxy in 0x2A2E5a5fF0F204208498756Ccf4C18405187b749
+deployed FeePoolState in 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6
+deployed FeePoolEternalStorage in 0x54df76a820a64fD7B439F91cbf7A33aCfC11a888
+deployed FeePool in 0xE876BFea07503321A6f6d7CF4680FBdF808282E9
+deployed RewardsDistribution in 0x88574C7f169d1D2b6B068415DA57127D9b92C151
+deployed SupplySchedule in 0x7509dc92e7E4fAF0379Ba64A83474B7f999c4FF9
+deployed synthetixProxy Proxy in 0xFfbAfdcE931ff8B16B76CC726873a6ef7b26BaB1
+deployed synthetixTokenState TokenState in 0x7B39c6a53F9e7f16AD19e9028f5092730961D1eb
+deployed Synthetix in 0x437650fCA008a586bFda135D4395F8826E9118b4
+deployed TokenState in 0x2547f02bb3f6C6A063f7929Ad4169043b2718740
+deployed Proxy in 0x185610Ae8d4Ed1263678349CbE63B964C0BaEeec
+deployed Synth in 0x3682C65dA8D8Ba16154d3909ED2E8E40aA9BDf7f
+deployed TokenState in 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999
+deployed Proxy in 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4
+deployed Synth in 0xe0C3Ec6F86dc97fa2776c650ff90cE31CD7E8dfC
+deployed TokenState in 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa
+deployed Proxy in 0x29353bf83305b53074A673E42843a3742947D22f
+deployed Synth in 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77
+deployed TokenState in 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5
+deployed Proxy in 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9
+deployed Synth in 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92
+deployed TokenState in 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf
+deployed Proxy in 0x4E24998b4ab3a4F52C247c3dA37719353D332a54
+deployed Synth in 0x7703770A666170d61D561eAd1209b312a118BC15
+deployed TokenState in 0xcb5b94626C060DfF8903027e2cc89Fedd547C940
+deployed Proxy in 0x634618F59754580388867E4E2C8A918920Ce3E2B
+deployed MultiCollateralSynth in 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772
+deployed Depot in 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40
+deployed EtherCollateral in 0xefdb599c8987410b1ded197fC331B33c49c39462
+deployed SelfDestructible in 0xF498A9D6301233d768615C108CF6898C7F1D8656
+deployed Exchanger in 0xEa217fCb815f50bc905A51CC57Ac1c29f9282F06
+deployed ExchangeState in 0x2bdC10605dfd937799BC005b8B125390E01195A2
+deployed Issuer in 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F
+
+╔══════════════════════════╤════════════════════════════════════════════╗
+║ Contract                 │ Address                                    ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ AddressResolver          │ 0x3DA032fd9B985Dd534EA84cf1a1B8f98943B64C9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ DelegateApprovals        │ 0x156337F2286d9B90B45B52DB346D0e2Ccd477B87 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ EtherCollateral          │ 0xefdb599c8987410b1ded197fC331B33c49c39462 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Exchange Rates           │ 0xDf4Ce8df744684b239eB434eBDBe13c38Ea3B9b9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool                 │ 0xE876BFea07503321A6f6d7CF4680FBdF808282E9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Proxy           │ 0x2A2E5a5fF0F204208498756Ccf4C18405187b749 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool State           │ 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Eternal Storage │ 0x54df76a820a64fD7B439F91cbf7A33aCfC11a888 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix State          │ 0x66096af2CaFB7873DDA85326361cB4fa80cEDeC8 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Token State    │ 0x7B39c6a53F9e7f16AD19e9028f5092730961D1eb ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Proxy          │ 0xFfbAfdcE931ff8B16B76CC726873a6ef7b26BaB1 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix                │ 0x437650fCA008a586bFda135D4395F8826E9118b4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Escrow         │ 0xa5907d72A7216065b2628a5aeF2f2f5b979d66a3 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Reward Escrow            │ 0xbcB97937C6ED3a7db443f6f50190507c153b4742 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Rewards Distribution     │ 0x88574C7f169d1D2b6B068415DA57127D9b92C151 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Depot                    │ 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Owned                    │ 0xE3212E39242De4b485d17711E1309925aD38f94e ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SafeDecimalMath          │ 0xbF2ad8af0BFFD2085fE620C2Aa95981Cf1418a50 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SelfDestructible         │ 0xF498A9D6301233d768615C108CF6898C7F1D8656 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuer                   │ 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuance Eternal Storage │ 0x9248d1aEfF24Ee0468D1a5479A07c94099e7030a ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Synth               │ 0x3682C65dA8D8Ba16154d3909ED2E8E40aA9BDf7f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Proxy               │ 0x185610Ae8d4Ed1263678349CbE63B964C0BaEeec ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Token State         │ 0x2547f02bb3f6C6A063f7929Ad4169043b2718740 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Synth               │ 0xe0C3Ec6F86dc97fa2776c650ff90cE31CD7E8dfC ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Proxy               │ 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Token State         │ 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Synth               │ 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Proxy               │ 0x29353bf83305b53074A673E42843a3742947D22f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Token State         │ 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Synth               │ 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Proxy               │ 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Token State         │ 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Synth               │ 0x7703770A666170d61D561eAd1209b312a118BC15 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Proxy               │ 0x4E24998b4ab3a4F52C247c3dA37719353D332a54 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Token State         │ 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Synth               │ 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Proxy               │ 0x634618F59754580388867E4E2C8A918920Ce3E2B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Token State         │ 0xcb5b94626C060DfF8903027e2cc89Fedd547C940 ║
+╚══════════════════════════╧════════════════════════════════════════════╝deployed Owned in 
+deployed SafeDecimalMath in 0x420D27d8139cb6dd5fA72c6e95ba8b52C45a11BC
+deployed Math in 0x1b3F4D5c929F7DC0e4353a93740353CaD56863bF
+deployed PublicSafeDecimalMath in 0x023421147E1456F8927fF1EE72439205D1365592
+deployed PublicMath in 0x44a4F8a2255589Eba5B6a96FAeB7cEBbf346a04b
+deployed AddressResolver in 0x3f22e565064719956BA1574Aa3eeFDAa879587D9
+deployed SystemStatus in 0x25e89E4d446DbA26430cEfdE9c8a9820D8574978
+deployed ExchangeRates in 0xf64fF647aB18fe5f615c88b24C1B250d8f9cF3C4
+deployed SynthetixEscrow in 0x61770e43eCe1Aa807df031CA7c8eADA54A14e92B
+deployed RewardEscrow in 0x5aF96BEFd040c9064B025Dd5892C1eC8cA8824B9
+deployed SynthetixState in 0xB33436bD556E01eFf3BAA2f603b13c4132B7204F
+deployed EternalStorage in 0x7FdB4e2B5dC11b74E548C04817170eC0930D43D0
+deployed DelegateApprovals in 0x2921E564CEb82eb1fB27A9A250d53cFFb24a6729
+deployed feePoolProxy Proxy in 0x85Baa6c81515AE3cAF9eac8242b0049CcDa747D5
+deployed FeePoolState in 0xaB51d3DdFC23111ba608093091D0f25c5559D3e0
+deployed FeePoolEternalStorage in 0x223333fb9b248089C3eCD4231e9E5047E527b8B7
+deployed FeePool in 0x89D4240BF8374Ecb26EdF12F9A5647Bd2503D943
+deployed RewardsDistribution in 0xce7440626263Ca36a2901A492975D5120207b497
+deployed SupplySchedule in 0x2DFFb1969a7095eDa8778B69DFdcd01fE4147634
+deployed synthetixProxy Proxy in 0x01DA4689FC0d5db12218e07702C3d32830fEeD2F
+deployed synthetixTokenState TokenState in 0x446131960ec9dB1653E194818a5cB572C1fD5ACd
+deployed Synthetix in 0x1A17c9F63DCb42cB8d403D3865a258cd57F86Ed0
+deployed TokenState in 0x01b0464F8f15D746959ea3208cE9A1C8bBB1457B
+deployed Proxy in 0x64E56ba3081B82CDE7A2580991528570adf9eBF1
+deployed Synth in 0x769919BA1e9D3FA65693dBEca6778405FAEafB85
+deployed TokenState in 0xe1E91dd6Fc0C2572D1142BB14A3B205c9d3909E1
+deployed Proxy in 0x074e4d2800b04a97Ed0c4F1fc634b2d85c61A9A4
+deployed Synth in 0x69eDDdd5f5248743474cBDfe788Ce3313b3E87b2
+deployed TokenState in 0xCeA424e83f92deABE991b37beeAEa5A6d8568580
+deployed Proxy in 0x2D78bb0832db0Bf28eC3938d5B850CB09eFE6C10
+deployed Synth in 0x9D93ECcdf003BdFb33DA8cAE71781C3A5b0958F9
+deployed TokenState in 0xC6b896becbb5401726174CD596d1488787AFeb79
+deployed Proxy in 0xa7AbE2E76893C407921DFFB666CD3373c43e662a
+deployed Synth in 0x57e0AD6362B66D7253d0B47860B983dCFA8262E6
+deployed TokenState in 0xC5639AAF224FCCB865Bf7d95399B00322600599b
+deployed Proxy in 0xFb9A7657F8A36ca9e61B0c510000e77fC7Ae338B
+deployed Synth in 0x0C0F352E2C880F24e109e4de2Efce270EC43E173
+deployed TokenState in 0xb7d2b19Ed30596288A74688A18728b7BC09B9077
+deployed Proxy in 0x2faD8550A96E907AFF87cB1E31b36afd0eb73d2f
+deployed MultiCollateralSynth in 0x9B2e49028bb11179CB2953BC78C33C4c057e2c7d
+deployed Depot in 0x97c81ACa352Bba7Ae72342DB1063513650239fd5
+deployed EtherCollateral in 0x2B7280f2274Cb5DF9A716531141d2D5d08F176E2
+deployed SelfDestructible in 0x020D926C6Aa0A882ea846Acfea973787cf83267d
+deployed Exchanger in 0xeedfAb0b090CdA48A34Cc4463BF4aFF376b630C4
+deployed ExchangeState in 0xDe72A1f892d8edA29A69b2EfC987CE25C7DAEca2
+deployed Issuer in 0x875C14533AE504755E942c1b4b3e101dDbD2000c
+
+
+╔══════════════════════════╤════════════════════════════════════════════╗
+║ Contract                 │ Address                                    ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ AddressResolver          │ 0x3f22e565064719956BA1574Aa3eeFDAa879587D9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ DelegateApprovals        │ 0x2921E564CEb82eb1fB27A9A250d53cFFb24a6729 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ EtherCollateral          │ 0x2B7280f2274Cb5DF9A716531141d2D5d08F176E2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Exchange Rates           │ 0xf64fF647aB18fe5f615c88b24C1B250d8f9cF3C4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool                 │ 0x89D4240BF8374Ecb26EdF12F9A5647Bd2503D943 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Proxy           │ 0x85Baa6c81515AE3cAF9eac8242b0049CcDa747D5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool State           │ 0xaB51d3DdFC23111ba608093091D0f25c5559D3e0 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Eternal Storage │ 0x223333fb9b248089C3eCD4231e9E5047E527b8B7 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix State          │ 0xB33436bD556E01eFf3BAA2f603b13c4132B7204F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Token State    │ 0x446131960ec9dB1653E194818a5cB572C1fD5ACd ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Proxy          │ 0x01DA4689FC0d5db12218e07702C3d32830fEeD2F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix                │ 0x1A17c9F63DCb42cB8d403D3865a258cd57F86Ed0 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Escrow         │ 0x61770e43eCe1Aa807df031CA7c8eADA54A14e92B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Reward Escrow            │ 0x5aF96BEFd040c9064B025Dd5892C1eC8cA8824B9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Rewards Distribution     │ 0xce7440626263Ca36a2901A492975D5120207b497 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Depot                    │ 0x97c81ACa352Bba7Ae72342DB1063513650239fd5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Owned                    │ 0x3fB8D9F56477F4c5DDEEF6792fC27e07B80E51f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SafeDecimalMath          │ 0x420D27d8139cb6dd5fA72c6e95ba8b52C45a11BC ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SelfDestructible         │ 0x020D926C6Aa0A882ea846Acfea973787cf83267d ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuer                   │ 0x875C14533AE504755E942c1b4b3e101dDbD2000c ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuance Eternal Storage │ 0x7F549E3f48f16c9a34DA6e3a2e0753EA53b0531f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Synth               │ 0x769919BA1e9D3FA65693dBEca6778405FAEafB85 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Proxy               │ 0x64E56ba3081B82CDE7A2580991528570adf9eBF1 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Token State         │ 0x01b0464F8f15D746959ea3208cE9A1C8bBB1457B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Synth               │ 0x69eDDdd5f5248743474cBDfe788Ce3313b3E87b2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Proxy               │ 0x074e4d2800b04a97Ed0c4F1fc634b2d85c61A9A4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Token State         │ 0xe1E91dd6Fc0C2572D1142BB14A3B205c9d3909E1 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Synth               │ 0x9D93ECcdf003BdFb33DA8cAE71781C3A5b0958F9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Proxy               │ 0x2D78bb0832db0Bf28eC3938d5B850CB09eFE6C10 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Token State         │ 0xCeA424e83f92deABE991b37beeAEa5A6d8568580 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Synth               │ 0x57e0AD6362B66D7253d0B47860B983dCFA8262E6 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Proxy               │ 0xa7AbE2E76893C407921DFFB666CD3373c43e662a ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Token State         │ 0xC6b896becbb5401726174CD596d1488787AFeb79 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Synth               │ 0x0C0F352E2C880F24e109e4de2Efce270EC43E173 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Proxy               │ 0xFb9A7657F8A36ca9e61B0c510000e77fC7Ae338B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Token State         │ 0xC5639AAF224FCCB865Bf7d95399B00322600599b ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Synth               │ 0x9B2e49028bb11179CB2953BC78C33C4c057e2c7d ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Proxy               │ 0x2faD8550A96E907AFF87cB1E31b36afd0eb73d2f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Token State         │ 0xb7d2b19Ed30596288A74688A18728b7BC09B9077 ║
+╚══════════════════════════╧════════════════════════════════════════════╝
+deployed Owned in 
+deployed SafeDecimalMath in 0xE3212E39242De4b485d17711E1309925aD38f94e
+deployed Math in 0xbF2ad8af0BFFD2085fE620C2Aa95981Cf1418a50
+deployed PublicSafeDecimalMath in 0x1706cF5a8184d47A9dF3558594A7F804D511152C
+deployed PublicMath in 0x0B7c9b2E12cc1c1Dc670CD7d22b3B46Af5264d12
+deployed AddressResolver in 0x707c91ed6f8dF67A1978f2B252C43A47605f411B
+deployed SystemStatus in 0x3DA032fd9B985Dd534EA84cf1a1B8f98943B64C9
+deployed ExchangeRates in 0x09D88D7b7D50003785840Ae96DAe31595257CcCF
+deployed SynthetixEscrow in 0xDf4Ce8df744684b239eB434eBDBe13c38Ea3B9b9
+deployed RewardEscrow in 0xa5907d72A7216065b2628a5aeF2f2f5b979d66a3
+deployed SynthetixState in 0xbcB97937C6ED3a7db443f6f50190507c153b4742
+deployed EternalStorage in 0x66096af2CaFB7873DDA85326361cB4fa80cEDeC8
+deployed DelegateApprovals in 0x8A0b9AE351622b1dB0F21098c2981c52c5a26518
+deployed feePoolProxy Proxy in 0x156337F2286d9B90B45B52DB346D0e2Ccd477B87
+deployed FeePoolState in 0x2A2E5a5fF0F204208498756Ccf4C18405187b749
+deployed FeePoolEternalStorage in 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6
+deployed FeePool in 0x54df76a820a64fD7B439F91cbf7A33aCfC11a888
+deployed RewardsDistribution in 0xE876BFea07503321A6f6d7CF4680FBdF808282E9
+deployed SupplySchedule in 0x88574C7f169d1D2b6B068415DA57127D9b92C151
+deployed synthetixProxy Proxy in 0x7509dc92e7E4fAF0379Ba64A83474B7f999c4FF9
+deployed synthetixTokenState TokenState in 0xFfbAfdcE931ff8B16B76CC726873a6ef7b26BaB1
+deployed Synthetix in 0x7B39c6a53F9e7f16AD19e9028f5092730961D1eb
+deployed TokenState in 0x6bbb39e2ea8fd4cc379D783Fd2Ca7F248C261bE2
+deployed Proxy in 0x2547f02bb3f6C6A063f7929Ad4169043b2718740
+deployed Synth in 0x185610Ae8d4Ed1263678349CbE63B964C0BaEeec
+deployed TokenState in 0x3682C65dA8D8Ba16154d3909ED2E8E40aA9BDf7f
+deployed Proxy in 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999
+deployed Synth in 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4
+deployed TokenState in 0xe0C3Ec6F86dc97fa2776c650ff90cE31CD7E8dfC
+deployed Proxy in 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa
+deployed Synth in 0x29353bf83305b53074A673E42843a3742947D22f
+deployed TokenState in 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77
+deployed Proxy in 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5
+deployed Synth in 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9
+deployed TokenState in 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92
+deployed Proxy in 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf
+deployed Synth in 0x4E24998b4ab3a4F52C247c3dA37719353D332a54
+deployed TokenState in 0x7703770A666170d61D561eAd1209b312a118BC15
+deployed Proxy in 0xcb5b94626C060DfF8903027e2cc89Fedd547C940
+deployed MultiCollateralSynth in 0x634618F59754580388867E4E2C8A918920Ce3E2B
+deployed Depot in 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772
+deployed EtherCollateral in 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40
+deployed SelfDestructible in 0xefdb599c8987410b1ded197fC331B33c49c39462
+deployed Exchanger in 0xF498A9D6301233d768615C108CF6898C7F1D8656
+deployed ExchangeState in 0xEa217fCb815f50bc905A51CC57Ac1c29f9282F06
+deployed Issuer in 0x2bdC10605dfd937799BC005b8B125390E01195A2
+
+
+╔══════════════════════════╤════════════════════════════════════════════╗
+║ Contract                 │ Address                                    ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ AddressResolver          │ 0x707c91ed6f8dF67A1978f2B252C43A47605f411B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ DelegateApprovals        │ 0x8A0b9AE351622b1dB0F21098c2981c52c5a26518 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ EtherCollateral          │ 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Exchange Rates           │ 0x09D88D7b7D50003785840Ae96DAe31595257CcCF ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool                 │ 0x54df76a820a64fD7B439F91cbf7A33aCfC11a888 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Proxy           │ 0x156337F2286d9B90B45B52DB346D0e2Ccd477B87 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool State           │ 0x2A2E5a5fF0F204208498756Ccf4C18405187b749 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Eternal Storage │ 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix State          │ 0xbcB97937C6ED3a7db443f6f50190507c153b4742 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Token State    │ 0xFfbAfdcE931ff8B16B76CC726873a6ef7b26BaB1 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Proxy          │ 0x7509dc92e7E4fAF0379Ba64A83474B7f999c4FF9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix                │ 0x7B39c6a53F9e7f16AD19e9028f5092730961D1eb ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Escrow         │ 0xDf4Ce8df744684b239eB434eBDBe13c38Ea3B9b9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Reward Escrow            │ 0xa5907d72A7216065b2628a5aeF2f2f5b979d66a3 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Rewards Distribution     │ 0xE876BFea07503321A6f6d7CF4680FBdF808282E9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Depot                    │ 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Owned                    │ 0xB00127Cb28Bc1167fB785E9c54204b04B84B1294 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SafeDecimalMath          │ 0xE3212E39242De4b485d17711E1309925aD38f94e ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SelfDestructible         │ 0xefdb599c8987410b1ded197fC331B33c49c39462 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuer                   │ 0x2bdC10605dfd937799BC005b8B125390E01195A2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuance Eternal Storage │ 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Synth               │ 0x185610Ae8d4Ed1263678349CbE63B964C0BaEeec ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Proxy               │ 0x2547f02bb3f6C6A063f7929Ad4169043b2718740 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Token State         │ 0x6bbb39e2ea8fd4cc379D783Fd2Ca7F248C261bE2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Synth               │ 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Proxy               │ 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Token State         │ 0x3682C65dA8D8Ba16154d3909ED2E8E40aA9BDf7f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Synth               │ 0x29353bf83305b53074A673E42843a3742947D22f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Proxy               │ 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Token State         │ 0xe0C3Ec6F86dc97fa2776c650ff90cE31CD7E8dfC ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Synth               │ 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Proxy               │ 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Token State         │ 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Synth               │ 0x4E24998b4ab3a4F52C247c3dA37719353D332a54 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Proxy               │ 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Token State         │ 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Synth               │ 0x634618F59754580388867E4E2C8A918920Ce3E2B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Proxy               │ 0xcb5b94626C060DfF8903027e2cc89Fedd547C940 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Token State         │ 0x7703770A666170d61D561eAd1209b312a118BC15 ║
+╚══════════════════════════╧════════════════════════════════════════════╝
+
+deployed Owned in 
+deployed SafeDecimalMath in 0x44a4F8a2255589Eba5B6a96FAeB7cEBbf346a04b
+deployed Math in 0x3f22e565064719956BA1574Aa3eeFDAa879587D9
+deployed PublicSafeDecimalMath in 0x25e89E4d446DbA26430cEfdE9c8a9820D8574978
+deployed PublicMath in 0xf64fF647aB18fe5f615c88b24C1B250d8f9cF3C4
+deployed AddressResolver in 0x61770e43eCe1Aa807df031CA7c8eADA54A14e92B
+deployed SystemStatus in 0x5aF96BEFd040c9064B025Dd5892C1eC8cA8824B9
+deployed ExchangeRates in 0xB33436bD556E01eFf3BAA2f603b13c4132B7204F
+deployed SynthetixEscrow in 0x7FdB4e2B5dC11b74E548C04817170eC0930D43D0
+deployed RewardEscrow in 0x2921E564CEb82eb1fB27A9A250d53cFFb24a6729
+deployed SynthetixState in 0x85Baa6c81515AE3cAF9eac8242b0049CcDa747D5
+deployed EternalStorage in 0xaB51d3DdFC23111ba608093091D0f25c5559D3e0
+deployed DelegateApprovals in 0x223333fb9b248089C3eCD4231e9E5047E527b8B7
+deployed feePoolProxy Proxy in 0x89D4240BF8374Ecb26EdF12F9A5647Bd2503D943
+deployed FeePoolState in 0xce7440626263Ca36a2901A492975D5120207b497
+deployed FeePoolEternalStorage in 0x2DFFb1969a7095eDa8778B69DFdcd01fE4147634
+deployed FeePool in 0x01DA4689FC0d5db12218e07702C3d32830fEeD2F
+deployed RewardsDistribution in 0x446131960ec9dB1653E194818a5cB572C1fD5ACd
+deployed SupplySchedule in 0x1A17c9F63DCb42cB8d403D3865a258cd57F86Ed0
+deployed synthetixProxy Proxy in 0x9A463a5F1c080aD94cC8FEC3fafA4238BBF74695
+deployed synthetixTokenState TokenState in 0x01b0464F8f15D746959ea3208cE9A1C8bBB1457B
+deployed Synthetix in 0x64E56ba3081B82CDE7A2580991528570adf9eBF1
+deployed TokenState in 0xe1E91dd6Fc0C2572D1142BB14A3B205c9d3909E1
+deployed Proxy in 0x074e4d2800b04a97Ed0c4F1fc634b2d85c61A9A4
+deployed Synth in 0x69eDDdd5f5248743474cBDfe788Ce3313b3E87b2
+deployed TokenState in 0xCeA424e83f92deABE991b37beeAEa5A6d8568580
+deployed Proxy in 0x2D78bb0832db0Bf28eC3938d5B850CB09eFE6C10
+deployed Synth in 0x9D93ECcdf003BdFb33DA8cAE71781C3A5b0958F9
+deployed TokenState in 0xC6b896becbb5401726174CD596d1488787AFeb79
+deployed Proxy in 0xa7AbE2E76893C407921DFFB666CD3373c43e662a
+deployed Synth in 0x57e0AD6362B66D7253d0B47860B983dCFA8262E6
+deployed TokenState in 0xC5639AAF224FCCB865Bf7d95399B00322600599b
+deployed Proxy in 0xFb9A7657F8A36ca9e61B0c510000e77fC7Ae338B
+deployed Synth in 0x0C0F352E2C880F24e109e4de2Efce270EC43E173
+deployed TokenState in 0xb7d2b19Ed30596288A74688A18728b7BC09B9077
+deployed Proxy in 0x2faD8550A96E907AFF87cB1E31b36afd0eb73d2f
+deployed Synth in 0x9B2e49028bb11179CB2953BC78C33C4c057e2c7d
+deployed TokenState in 0x97c81ACa352Bba7Ae72342DB1063513650239fd5
+deployed Proxy in 0x2B7280f2274Cb5DF9A716531141d2D5d08F176E2
+deployed MultiCollateralSynth in 0x020D926C6Aa0A882ea846Acfea973787cf83267d
+deployed Depot in 0xeedfAb0b090CdA48A34Cc4463BF4aFF376b630C4
+deployed EtherCollateral in 0xDe72A1f892d8edA29A69b2EfC987CE25C7DAEca2
+deployed SelfDestructible in 0x875C14533AE504755E942c1b4b3e101dDbD2000c
+deployed Exchanger in 0x7F549E3f48f16c9a34DA6e3a2e0753EA53b0531f
+deployed ExchangeState in 0x0a627368bc435bb7E869E150fd7F63Cb0Ad81B3B
+deployed Issuer in 0xD2010AB86a53d68065a324ac102165D15Dad8cbE
+
+
+╔══════════════════════════╤════════════════════════════════════════════╗
+║ Contract                 │ Address                                    ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ AddressResolver          │ 0x61770e43eCe1Aa807df031CA7c8eADA54A14e92B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ DelegateApprovals        │ 0x223333fb9b248089C3eCD4231e9E5047E527b8B7 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ EtherCollateral          │ 0xDe72A1f892d8edA29A69b2EfC987CE25C7DAEca2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Exchange Rates           │ 0xB33436bD556E01eFf3BAA2f603b13c4132B7204F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool                 │ 0x01DA4689FC0d5db12218e07702C3d32830fEeD2F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Proxy           │ 0x89D4240BF8374Ecb26EdF12F9A5647Bd2503D943 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool State           │ 0xce7440626263Ca36a2901A492975D5120207b497 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Eternal Storage │ 0x2DFFb1969a7095eDa8778B69DFdcd01fE4147634 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix State          │ 0x85Baa6c81515AE3cAF9eac8242b0049CcDa747D5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Token State    │ 0x01b0464F8f15D746959ea3208cE9A1C8bBB1457B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Proxy          │ 0x9A463a5F1c080aD94cC8FEC3fafA4238BBF74695 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix                │ 0x64E56ba3081B82CDE7A2580991528570adf9eBF1 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Escrow         │ 0x7FdB4e2B5dC11b74E548C04817170eC0930D43D0 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Reward Escrow            │ 0x2921E564CEb82eb1fB27A9A250d53cFFb24a6729 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Rewards Distribution     │ 0x446131960ec9dB1653E194818a5cB572C1fD5ACd ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Depot                    │ 0xeedfAb0b090CdA48A34Cc4463BF4aFF376b630C4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Owned                    │ 0x023421147E1456F8927fF1EE72439205D1365592 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SafeDecimalMath          │ 0x44a4F8a2255589Eba5B6a96FAeB7cEBbf346a04b ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SelfDestructible         │ 0x875C14533AE504755E942c1b4b3e101dDbD2000c ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuer                   │ 0xD2010AB86a53d68065a324ac102165D15Dad8cbE ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuance Eternal Storage │ 0xe99d979AD1822b3f6C7850677Fe8ABe6615ABfBB ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Synth               │ 0x69eDDdd5f5248743474cBDfe788Ce3313b3E87b2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Proxy               │ 0x074e4d2800b04a97Ed0c4F1fc634b2d85c61A9A4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Token State         │ 0xe1E91dd6Fc0C2572D1142BB14A3B205c9d3909E1 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Synth               │ 0x9D93ECcdf003BdFb33DA8cAE71781C3A5b0958F9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Proxy               │ 0x2D78bb0832db0Bf28eC3938d5B850CB09eFE6C10 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Token State         │ 0xCeA424e83f92deABE991b37beeAEa5A6d8568580 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Synth               │ 0x57e0AD6362B66D7253d0B47860B983dCFA8262E6 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Proxy               │ 0xa7AbE2E76893C407921DFFB666CD3373c43e662a ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Token State         │ 0xC6b896becbb5401726174CD596d1488787AFeb79 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Synth               │ 0x0C0F352E2C880F24e109e4de2Efce270EC43E173 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Proxy               │ 0xFb9A7657F8A36ca9e61B0c510000e77fC7Ae338B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Token State         │ 0xC5639AAF224FCCB865Bf7d95399B00322600599b ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Synth               │ 0x9B2e49028bb11179CB2953BC78C33C4c057e2c7d ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Proxy               │ 0x2faD8550A96E907AFF87cB1E31b36afd0eb73d2f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Token State         │ 0xb7d2b19Ed30596288A74688A18728b7BC09B9077 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Synth               │ 0x020D926C6Aa0A882ea846Acfea973787cf83267d ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Proxy               │ 0x2B7280f2274Cb5DF9A716531141d2D5d08F176E2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Token State         │ 0x97c81ACa352Bba7Ae72342DB1063513650239fd5 ║
+╚══════════════════════════╧════════════════════════════════════════════╝deployed Owned in 
+deployed SafeDecimalMath in 0x0B7c9b2E12cc1c1Dc670CD7d22b3B46Af5264d12
+deployed Math in 0x707c91ed6f8dF67A1978f2B252C43A47605f411B
+deployed PublicSafeDecimalMath in 0x3DA032fd9B985Dd534EA84cf1a1B8f98943B64C9
+deployed PublicMath in 0x09D88D7b7D50003785840Ae96DAe31595257CcCF
+deployed AddressResolver in 0xDf4Ce8df744684b239eB434eBDBe13c38Ea3B9b9
+deployed SystemStatus in 0xa5907d72A7216065b2628a5aeF2f2f5b979d66a3
+deployed ExchangeRates in 0xbcB97937C6ED3a7db443f6f50190507c153b4742
+deployed SynthetixEscrow in 0x66096af2CaFB7873DDA85326361cB4fa80cEDeC8
+deployed RewardEscrow in 0x8A0b9AE351622b1dB0F21098c2981c52c5a26518
+deployed SynthetixState in 0x156337F2286d9B90B45B52DB346D0e2Ccd477B87
+deployed EternalStorage in 0x2A2E5a5fF0F204208498756Ccf4C18405187b749
+deployed DelegateApprovals in 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6
+deployed feePoolProxy Proxy in 0x54df76a820a64fD7B439F91cbf7A33aCfC11a888
+deployed FeePoolState in 0xE876BFea07503321A6f6d7CF4680FBdF808282E9
+deployed FeePoolEternalStorage in 0x88574C7f169d1D2b6B068415DA57127D9b92C151
+deployed FeePool in 0x7509dc92e7E4fAF0379Ba64A83474B7f999c4FF9
+deployed RewardsDistribution in 0xFfbAfdcE931ff8B16B76CC726873a6ef7b26BaB1
+deployed SupplySchedule in 0x7B39c6a53F9e7f16AD19e9028f5092730961D1eb
+deployed synthetixProxy Proxy in 0x437650fCA008a586bFda135D4395F8826E9118b4
+deployed synthetixTokenState TokenState in 0x6bbb39e2ea8fd4cc379D783Fd2Ca7F248C261bE2
+
+
+
+
+
+deployed Owned in 
+deployed SafeDecimalMath in 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999
+deployed Math in 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4
+deployed PublicSafeDecimalMath in 0xe0C3Ec6F86dc97fa2776c650ff90cE31CD7E8dfC
+deployed PublicMath in 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa
+deployed AddressResolver in 0x29353bf83305b53074A673E42843a3742947D22f
+deployed SystemStatus in 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77
+deployed ExchangeRates in 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5
+deployed SynthetixEscrow in 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9
+deployed RewardEscrow in 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92
+deployed SynthetixState in 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf
+deployed EternalStorage in 0x4E24998b4ab3a4F52C247c3dA37719353D332a54
+deployed DelegateApprovals in 0x7703770A666170d61D561eAd1209b312a118BC15
+deployed feePoolProxy Proxy in 0xcb5b94626C060DfF8903027e2cc89Fedd547C940
+deployed FeePoolState in 0x634618F59754580388867E4E2C8A918920Ce3E2B
+deployed FeePoolEternalStorage in 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772
+deployed FeePool in 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40
+deployed RewardsDistribution in 0xefdb599c8987410b1ded197fC331B33c49c39462
+deployed SupplySchedule in 0xF498A9D6301233d768615C108CF6898C7F1D8656
+deployed synthetixProxy Proxy in 0xEa217fCb815f50bc905A51CC57Ac1c29f9282F06
+deployed synthetixTokenState TokenState in 0x2bdC10605dfd937799BC005b8B125390E01195A2
+deployed Synthetix in 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F
+deployed TokenState in 0xF8898066996Ea91e1bFF972F3cbfC93ff313389e
+deployed Proxy in 0xC8D5a02Cfe79625FA6574025fFb504F122eA4385
+deployed Synth in 0x3fB8D9F56477F4c5DDEEF6792fC27e07B80E51f5
+deployed TokenState in 0x420D27d8139cb6dd5fA72c6e95ba8b52C45a11BC
+deployed Proxy in 0x1b3F4D5c929F7DC0e4353a93740353CaD56863bF
+deployed Synth in 0x023421147E1456F8927fF1EE72439205D1365592
+deployed TokenState in 0x44a4F8a2255589Eba5B6a96FAeB7cEBbf346a04b
+deployed Proxy in 0x3f22e565064719956BA1574Aa3eeFDAa879587D9
+deployed Synth in 0x25e89E4d446DbA26430cEfdE9c8a9820D8574978
+deployed TokenState in 0xf64fF647aB18fe5f615c88b24C1B250d8f9cF3C4
+deployed Proxy in 0x61770e43eCe1Aa807df031CA7c8eADA54A14e92B
+deployed Synth in 0x5aF96BEFd040c9064B025Dd5892C1eC8cA8824B9
+deployed TokenState in 0xB33436bD556E01eFf3BAA2f603b13c4132B7204F
+deployed Proxy in 0x7FdB4e2B5dC11b74E548C04817170eC0930D43D0
+deployed Synth in 0x2921E564CEb82eb1fB27A9A250d53cFFb24a6729
+deployed TokenState in 0x85Baa6c81515AE3cAF9eac8242b0049CcDa747D5
+deployed Proxy in 0xaB51d3DdFC23111ba608093091D0f25c5559D3e0
+deployed MultiCollateralSynth in 0x223333fb9b248089C3eCD4231e9E5047E527b8B7
+deployed Depot in 0x89D4240BF8374Ecb26EdF12F9A5647Bd2503D943
+deployed EtherCollateral in 0xce7440626263Ca36a2901A492975D5120207b497
+deployed SelfDestructible in 0x2DFFb1969a7095eDa8778B69DFdcd01fE4147634
+deployed Exchanger in 0x01DA4689FC0d5db12218e07702C3d32830fEeD2F
+deployed ExchangeState in 0x446131960ec9dB1653E194818a5cB572C1fD5ACd
+deployed Issuer in 0x1A17c9F63DCb42cB8d403D3865a258cd57F86Ed0
+
+
+╔══════════════════════════╤════════════════════════════════════════════╗
+║ Contract                 │ Address                                    ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ AddressResolver          │ 0x29353bf83305b53074A673E42843a3742947D22f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ DelegateApprovals        │ 0x7703770A666170d61D561eAd1209b312a118BC15 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ EtherCollateral          │ 0xce7440626263Ca36a2901A492975D5120207b497 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Exchange Rates           │ 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool                 │ 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Proxy           │ 0xcb5b94626C060DfF8903027e2cc89Fedd547C940 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool State           │ 0x634618F59754580388867E4E2C8A918920Ce3E2B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Eternal Storage │ 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix State          │ 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Token State    │ 0x2bdC10605dfd937799BC005b8B125390E01195A2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Proxy          │ 0xEa217fCb815f50bc905A51CC57Ac1c29f9282F06 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix                │ 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Escrow         │ 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Reward Escrow            │ 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Rewards Distribution     │ 0xefdb599c8987410b1ded197fC331B33c49c39462 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Depot                    │ 0x89D4240BF8374Ecb26EdF12F9A5647Bd2503D943 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Owned                    │ 0x3682C65dA8D8Ba16154d3909ED2E8E40aA9BDf7f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SafeDecimalMath          │ 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SelfDestructible         │ 0x2DFFb1969a7095eDa8778B69DFdcd01fE4147634 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuer                   │ 0x1A17c9F63DCb42cB8d403D3865a258cd57F86Ed0 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuance Eternal Storage │ 0x9A463a5F1c080aD94cC8FEC3fafA4238BBF74695 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Synth               │ 0x3fB8D9F56477F4c5DDEEF6792fC27e07B80E51f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Proxy               │ 0xC8D5a02Cfe79625FA6574025fFb504F122eA4385 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Token State         │ 0xF8898066996Ea91e1bFF972F3cbfC93ff313389e ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Synth               │ 0x023421147E1456F8927fF1EE72439205D1365592 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Proxy               │ 0x1b3F4D5c929F7DC0e4353a93740353CaD56863bF ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Token State         │ 0x420D27d8139cb6dd5fA72c6e95ba8b52C45a11BC ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Synth               │ 0x25e89E4d446DbA26430cEfdE9c8a9820D8574978 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Proxy               │ 0x3f22e565064719956BA1574Aa3eeFDAa879587D9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Token State         │ 0x44a4F8a2255589Eba5B6a96FAeB7cEBbf346a04b ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Synth               │ 0x5aF96BEFd040c9064B025Dd5892C1eC8cA8824B9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Proxy               │ 0x61770e43eCe1Aa807df031CA7c8eADA54A14e92B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Token State         │ 0xf64fF647aB18fe5f615c88b24C1B250d8f9cF3C4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Synth               │ 0x2921E564CEb82eb1fB27A9A250d53cFFb24a6729 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Proxy               │ 0xaB51d3DdFC23111ba608093091D0f25c5559D3e0 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Token State         │ 0x85Baa6c81515AE3cAF9eac8242b0049CcDa747D5 ║
+╚══════════════════════════╧════════════════════════════════════════════╝deployed Owned in 
+deployed SafeDecimalMath in 0xE3212E39242De4b485d17711E1309925aD38f94e
+deployed Math in 0xbF2ad8af0BFFD2085fE620C2Aa95981Cf1418a50
+deployed PublicSafeDecimalMath in 0x1706cF5a8184d47A9dF3558594A7F804D511152C
+deployed PublicMath in 0x0B7c9b2E12cc1c1Dc670CD7d22b3B46Af5264d12
+deployed AddressResolver in 0x707c91ed6f8dF67A1978f2B252C43A47605f411B
+deployed SystemStatus in 0x3DA032fd9B985Dd534EA84cf1a1B8f98943B64C9
+deployed ExchangeRates in 0x09D88D7b7D50003785840Ae96DAe31595257CcCF
+deployed SynthetixEscrow in 0xDf4Ce8df744684b239eB434eBDBe13c38Ea3B9b9
+deployed RewardEscrow in 0xa5907d72A7216065b2628a5aeF2f2f5b979d66a3
+deployed Owned in 
+deployed SafeDecimalMath in 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6
+deployed Math in 0x54df76a820a64fD7B439F91cbf7A33aCfC11a888
+deployed PublicSafeDecimalMath in 0xE876BFea07503321A6f6d7CF4680FBdF808282E9
+deployed PublicMath in 0x88574C7f169d1D2b6B068415DA57127D9b92C151
+deployed AddressResolver in 0x7509dc92e7E4fAF0379Ba64A83474B7f999c4FF9
+deployed SystemStatus in 0xFfbAfdcE931ff8B16B76CC726873a6ef7b26BaB1
+deployed ExchangeRates in 0x7B39c6a53F9e7f16AD19e9028f5092730961D1eb
+deployed SynthetixEscrow in 0x437650fCA008a586bFda135D4395F8826E9118b4
+deployed RewardEscrow in 0x6bbb39e2ea8fd4cc379D783Fd2Ca7F248C261bE2
+deployed SynthetixState in 0x2547f02bb3f6C6A063f7929Ad4169043b2718740
+deployed EternalStorage in 0x185610Ae8d4Ed1263678349CbE63B964C0BaEeec
+deployed DelegateApprovals in 0x3682C65dA8D8Ba16154d3909ED2E8E40aA9BDf7f
+deployed feePoolProxy Proxy in 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999
+deployed FeePoolState in 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4
+deployed FeePoolEternalStorage in 0xe0C3Ec6F86dc97fa2776c650ff90cE31CD7E8dfC
+deployed FeePool in 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa
+deployed RewardsDistribution in 0x29353bf83305b53074A673E42843a3742947D22f
+deployed SupplySchedule in 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77
+deployed synthetixProxy Proxy in 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5
+deployed synthetixTokenState TokenState in 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9
+deployed Synthetix in 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92
+deployed TokenState in 0x4E24998b4ab3a4F52C247c3dA37719353D332a54
+deployed Proxy in 0x7703770A666170d61D561eAd1209b312a118BC15
+deployed Synth in 0xcb5b94626C060DfF8903027e2cc89Fedd547C940
+deployed TokenState in 0x634618F59754580388867E4E2C8A918920Ce3E2B
+deployed Proxy in 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772
+deployed Synth in 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40
+deployed TokenState in 0xefdb599c8987410b1ded197fC331B33c49c39462
+deployed Proxy in 0xF498A9D6301233d768615C108CF6898C7F1D8656
+deployed Synth in 0xEa217fCb815f50bc905A51CC57Ac1c29f9282F06
+deployed TokenState in 0x2bdC10605dfd937799BC005b8B125390E01195A2
+deployed Proxy in 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F
+deployed Synth in 0x9248d1aEfF24Ee0468D1a5479A07c94099e7030a
+deployed TokenState in 0xF8898066996Ea91e1bFF972F3cbfC93ff313389e
+deployed Proxy in 0xC8D5a02Cfe79625FA6574025fFb504F122eA4385
+deployed Synth in 0x3fB8D9F56477F4c5DDEEF6792fC27e07B80E51f5
+deployed TokenState in 0x420D27d8139cb6dd5fA72c6e95ba8b52C45a11BC
+deployed Proxy in 0x1b3F4D5c929F7DC0e4353a93740353CaD56863bF
+deployed MultiCollateralSynth in 0x023421147E1456F8927fF1EE72439205D1365592
+deployed Depot in 0x44a4F8a2255589Eba5B6a96FAeB7cEBbf346a04b
+deployed EtherCollateral in 0x3f22e565064719956BA1574Aa3eeFDAa879587D9
+deployed SelfDestructible in 0x25e89E4d446DbA26430cEfdE9c8a9820D8574978
+deployed Exchanger in 0xf64fF647aB18fe5f615c88b24C1B250d8f9cF3C4
+deployed ExchangeState in 0x61770e43eCe1Aa807df031CA7c8eADA54A14e92B
+deployed Issuer in 0x5aF96BEFd040c9064B025Dd5892C1eC8cA8824B9
+
+
+╔══════════════════════════╤════════════════════════════════════════════╗
+║ Contract                 │ Address                                    ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ AddressResolver          │ 0x7509dc92e7E4fAF0379Ba64A83474B7f999c4FF9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ DelegateApprovals        │ 0x3682C65dA8D8Ba16154d3909ED2E8E40aA9BDf7f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ EtherCollateral          │ 0x3f22e565064719956BA1574Aa3eeFDAa879587D9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Exchange Rates           │ 0x7B39c6a53F9e7f16AD19e9028f5092730961D1eb ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool                 │ 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Proxy           │ 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool State           │ 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Eternal Storage │ 0xe0C3Ec6F86dc97fa2776c650ff90cE31CD7E8dfC ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix State          │ 0x2547f02bb3f6C6A063f7929Ad4169043b2718740 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Token State    │ 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Proxy          │ 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix                │ 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Escrow         │ 0x437650fCA008a586bFda135D4395F8826E9118b4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Reward Escrow            │ 0x6bbb39e2ea8fd4cc379D783Fd2Ca7F248C261bE2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Rewards Distribution     │ 0x29353bf83305b53074A673E42843a3742947D22f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Depot                    │ 0x44a4F8a2255589Eba5B6a96FAeB7cEBbf346a04b ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Owned                    │ 0x2A2E5a5fF0F204208498756Ccf4C18405187b749 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SafeDecimalMath          │ 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SelfDestructible         │ 0x25e89E4d446DbA26430cEfdE9c8a9820D8574978 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuer                   │ 0x5aF96BEFd040c9064B025Dd5892C1eC8cA8824B9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuance Eternal Storage │ 0xB33436bD556E01eFf3BAA2f603b13c4132B7204F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Synth               │ 0xcb5b94626C060DfF8903027e2cc89Fedd547C940 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Proxy               │ 0x7703770A666170d61D561eAd1209b312a118BC15 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Token State         │ 0x4E24998b4ab3a4F52C247c3dA37719353D332a54 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Synth               │ 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Proxy               │ 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Token State         │ 0x634618F59754580388867E4E2C8A918920Ce3E2B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Synth               │ 0xEa217fCb815f50bc905A51CC57Ac1c29f9282F06 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Proxy               │ 0xF498A9D6301233d768615C108CF6898C7F1D8656 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Token State         │ 0xefdb599c8987410b1ded197fC331B33c49c39462 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Synth               │ 0x9248d1aEfF24Ee0468D1a5479A07c94099e7030a ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Proxy               │ 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Token State         │ 0x2bdC10605dfd937799BC005b8B125390E01195A2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Synth               │ 0x3fB8D9F56477F4c5DDEEF6792fC27e07B80E51f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Proxy               │ 0xC8D5a02Cfe79625FA6574025fFb504F122eA4385 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Token State         │ 0xF8898066996Ea91e1bFF972F3cbfC93ff313389e ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Synth               │ 0x023421147E1456F8927fF1EE72439205D1365592 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Proxy               │ 0x1b3F4D5c929F7DC0e4353a93740353CaD56863bF ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Token State         │ 0x420D27d8139cb6dd5fA72c6e95ba8b52C45a11BC ║
+╚══════════════════════════╧════════════════════════════════════════════╝
+deployed Owned in 
+deployed SafeDecimalMath in 0x707c91ed6f8dF67A1978f2B252C43A47605f411B
+deployed Math in 0x3DA032fd9B985Dd534EA84cf1a1B8f98943B64C9
+deployed PublicSafeDecimalMath in 0x09D88D7b7D50003785840Ae96DAe31595257CcCF
+deployed PublicMath in 0xDf4Ce8df744684b239eB434eBDBe13c38Ea3B9b9
+deployed AddressResolver in 0xa5907d72A7216065b2628a5aeF2f2f5b979d66a3
+deployed SystemStatus in 0xbcB97937C6ED3a7db443f6f50190507c153b4742
+deployed ExchangeRates in 0x66096af2CaFB7873DDA85326361cB4fa80cEDeC8
+deployed SynthetixEscrow in 0x8A0b9AE351622b1dB0F21098c2981c52c5a26518
+deployed RewardEscrow in 0x156337F2286d9B90B45B52DB346D0e2Ccd477B87
+deployed SynthetixState in 0x2A2E5a5fF0F204208498756Ccf4C18405187b749
+deployed EternalStorage in 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6
+deployed DelegateApprovals in 0x54df76a820a64fD7B439F91cbf7A33aCfC11a888
+deployed feePoolProxy Proxy in 0xE876BFea07503321A6f6d7CF4680FBdF808282E9
+deployed FeePoolState in 0x88574C7f169d1D2b6B068415DA57127D9b92C151
+deployed FeePoolEternalStorage in 0x7509dc92e7E4fAF0379Ba64A83474B7f999c4FF9
+deployed FeePool in 0xFfbAfdcE931ff8B16B76CC726873a6ef7b26BaB1
+deployed RewardsDistribution in 0x7B39c6a53F9e7f16AD19e9028f5092730961D1eb
+deployed SupplySchedule in 0x437650fCA008a586bFda135D4395F8826E9118b4
+deployed synthetixProxy Proxy in 0x6bbb39e2ea8fd4cc379D783Fd2Ca7F248C261bE2
+deployed synthetixTokenState TokenState in 0x2547f02bb3f6C6A063f7929Ad4169043b2718740
+
+
+
+deployed Owned in 
+deployed SafeDecimalMath in 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4
+deployed Math in 0xe0C3Ec6F86dc97fa2776c650ff90cE31CD7E8dfC
+deployed PublicSafeDecimalMath in 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa
+deployed PublicMath in 0x29353bf83305b53074A673E42843a3742947D22f
+deployed AddressResolver in 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77
+deployed SystemStatus in 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5
+deployed ExchangeRates in 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9
+deployed SynthetixEscrow in 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92
+deployed RewardEscrow in 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf
+deployed SynthetixState in 0x4E24998b4ab3a4F52C247c3dA37719353D332a54
+deployed EternalStorage in 0x7703770A666170d61D561eAd1209b312a118BC15
+deployed DelegateApprovals in 0xcb5b94626C060DfF8903027e2cc89Fedd547C940
+deployed feePoolProxy Proxy in 0x634618F59754580388867E4E2C8A918920Ce3E2B
+deployed FeePoolState in 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772
+deployed FeePoolEternalStorage in 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40
+deployed FeePool in 0xefdb599c8987410b1ded197fC331B33c49c39462
+deployed RewardsDistribution in 0xF498A9D6301233d768615C108CF6898C7F1D8656
+deployed SupplySchedule in 0xEa217fCb815f50bc905A51CC57Ac1c29f9282F06
+deployed synthetixProxy Proxy in 0x2bdC10605dfd937799BC005b8B125390E01195A2
+deployed synthetixTokenState TokenState in 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F
+deployed Synthetix in 0x9248d1aEfF24Ee0468D1a5479A07c94099e7030a
+deployed TokenState in 0xC8D5a02Cfe79625FA6574025fFb504F122eA4385
+deployed Proxy in 0x3fB8D9F56477F4c5DDEEF6792fC27e07B80E51f5
+deployed Synth in 0x420D27d8139cb6dd5fA72c6e95ba8b52C45a11BC
+deployed TokenState in 0x1b3F4D5c929F7DC0e4353a93740353CaD56863bF
+deployed Proxy in 0x023421147E1456F8927fF1EE72439205D1365592
+deployed Synth in 0x44a4F8a2255589Eba5B6a96FAeB7cEBbf346a04b
+deployed TokenState in 0x3f22e565064719956BA1574Aa3eeFDAa879587D9
+deployed Proxy in 0x25e89E4d446DbA26430cEfdE9c8a9820D8574978
+deployed Synth in 0xf64fF647aB18fe5f615c88b24C1B250d8f9cF3C4
+deployed TokenState in 0x61770e43eCe1Aa807df031CA7c8eADA54A14e92B
+deployed Proxy in 0x5aF96BEFd040c9064B025Dd5892C1eC8cA8824B9
+deployed Synth in 0xB33436bD556E01eFf3BAA2f603b13c4132B7204F
+deployed TokenState in 0x7FdB4e2B5dC11b74E548C04817170eC0930D43D0
+deployed Proxy in 0x2921E564CEb82eb1fB27A9A250d53cFFb24a6729
+deployed Synth in 0x85Baa6c81515AE3cAF9eac8242b0049CcDa747D5
+deployed TokenState in 0xaB51d3DdFC23111ba608093091D0f25c5559D3e0
+deployed Proxy in 0x223333fb9b248089C3eCD4231e9E5047E527b8B7
+deployed MultiCollateralSynth in 0x89D4240BF8374Ecb26EdF12F9A5647Bd2503D943
+deployed Depot in 0xce7440626263Ca36a2901A492975D5120207b497
+deployed EtherCollateral in 0x2DFFb1969a7095eDa8778B69DFdcd01fE4147634
+deployed SelfDestructible in 0x01DA4689FC0d5db12218e07702C3d32830fEeD2F
+deployed Exchanger in 0x446131960ec9dB1653E194818a5cB572C1fD5ACd
+deployed ExchangeState in 0x1A17c9F63DCb42cB8d403D3865a258cd57F86Ed0
+deployed Issuer in 0x9A463a5F1c080aD94cC8FEC3fafA4238BBF74695
+╔══════════════════════════╤════════════════════════════════════════════╗
+║ Contract                 │ Address                                    ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ AddressResolver          │ 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ DelegateApprovals        │ 0xcb5b94626C060DfF8903027e2cc89Fedd547C940 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ EtherCollateral          │ 0x2DFFb1969a7095eDa8778B69DFdcd01fE4147634 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Exchange Rates           │ 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool                 │ 0xefdb599c8987410b1ded197fC331B33c49c39462 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Proxy           │ 0x634618F59754580388867E4E2C8A918920Ce3E2B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool State           │ 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Eternal Storage │ 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix State          │ 0x4E24998b4ab3a4F52C247c3dA37719353D332a54 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Token State    │ 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Proxy          │ 0x2bdC10605dfd937799BC005b8B125390E01195A2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix                │ 0x9248d1aEfF24Ee0468D1a5479A07c94099e7030a ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Escrow         │ 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Reward Escrow            │ 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Rewards Distribution     │ 0xF498A9D6301233d768615C108CF6898C7F1D8656 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Depot                    │ 0xce7440626263Ca36a2901A492975D5120207b497 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Owned                    │ 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SafeDecimalMath          │ 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SelfDestructible         │ 0x01DA4689FC0d5db12218e07702C3d32830fEeD2F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuer                   │ 0x9A463a5F1c080aD94cC8FEC3fafA4238BBF74695 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuance Eternal Storage │ 0x01b0464F8f15D746959ea3208cE9A1C8bBB1457B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Synth               │ 0x420D27d8139cb6dd5fA72c6e95ba8b52C45a11BC ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Proxy               │ 0x3fB8D9F56477F4c5DDEEF6792fC27e07B80E51f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Token State         │ 0xC8D5a02Cfe79625FA6574025fFb504F122eA4385 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Synth               │ 0x44a4F8a2255589Eba5B6a96FAeB7cEBbf346a04b ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Proxy               │ 0x023421147E1456F8927fF1EE72439205D1365592 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Token State         │ 0x1b3F4D5c929F7DC0e4353a93740353CaD56863bF ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Synth               │ 0xf64fF647aB18fe5f615c88b24C1B250d8f9cF3C4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Proxy               │ 0x25e89E4d446DbA26430cEfdE9c8a9820D8574978 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Token State         │ 0x3f22e565064719956BA1574Aa3eeFDAa879587D9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Synth               │ 0xB33436bD556E01eFf3BAA2f603b13c4132B7204F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Proxy               │ 0x5aF96BEFd040c9064B025Dd5892C1eC8cA8824B9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Token State         │ 0x61770e43eCe1Aa807df031CA7c8eADA54A14e92B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Synth               │ 0x85Baa6c81515AE3cAF9eac8242b0049CcDa747D5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Proxy               │ 0x2921E564CEb82eb1fB27A9A250d53cFFb24a6729 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Token State         │ 0x7FdB4e2B5dC11b74E548C04817170eC0930D43D0 ║
+║ sEUR Synth               │ 0xf64fF647aB18fe5f615c88b24C1B250d8f9cF3C4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Proxy               │ 0x25e89E4d446DbA26430cEfdE9c8a9820D8574978 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Token State         │ 0x3f22e565064719956BA1574Aa3eeFDAa879587D9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Synth               │ 0xB33436bD556E01eFf3BAA2f603b13c4132B7204F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Proxy               │ 0x5aF96BEFd040c9064B025Dd5892C1eC8cA8824B9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Token State         │ 0x61770e43eCe1Aa807df031CA7c8eADA54A14e92B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Synth               │ 0x85Baa6c81515AE3cAF9eac8242b0049CcDa747D5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Proxy               │ 0x2921E564CEb82eb1fB27A9A250d53cFFb24a6729 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Token State         │ 0x7FdB4e2B5dC11b74E548C04817170eC0930D43D0 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Synth               │ 0x89D4240BF8374Ecb26EdF12F9A5647Bd2503D943 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Proxy               │ 0x223333fb9b248089C3eCD4231e9E5047E527b8B7 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Token State         │ 0xaB51d3DdFC23111ba608093091D0f25c5559D3e0 ║
+╚══════════════════════════╧════════════════════════════════════════════╝deployed Owned in 
+deployed SafeDecimalMath in 0x707c91ed6f8dF67A1978f2B252C43A47605f411B
+deployed Math in 0x3DA032fd9B985Dd534EA84cf1a1B8f98943B64C9
+deployed PublicSafeDecimalMath in 0x09D88D7b7D50003785840Ae96DAe31595257CcCF
+deployed PublicMath in 0xDf4Ce8df744684b239eB434eBDBe13c38Ea3B9b9
+deployed AddressResolver in 0xa5907d72A7216065b2628a5aeF2f2f5b979d66a3
+deployed SystemStatus in 0xbcB97937C6ED3a7db443f6f50190507c153b4742
+deployed ExchangeRates in 0x66096af2CaFB7873DDA85326361cB4fa80cEDeC8
+deployed SynthetixEscrow in 0x8A0b9AE351622b1dB0F21098c2981c52c5a26518
+deployed RewardEscrow in 0x156337F2286d9B90B45B52DB346D0e2Ccd477B87
+deployed SynthetixState in 0x2A2E5a5fF0F204208498756Ccf4C18405187b749
+deployed EternalStorage in 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6
+deployed DelegateApprovals in 0x54df76a820a64fD7B439F91cbf7A33aCfC11a888
+deployed feePoolProxy Proxy in 0xE876BFea07503321A6f6d7CF4680FBdF808282E9
+deployed FeePoolState in 0x88574C7f169d1D2b6B068415DA57127D9b92C151
+deployed FeePoolEternalStorage in 0x7509dc92e7E4fAF0379Ba64A83474B7f999c4FF9
+deployed FeePool in 0xFfbAfdcE931ff8B16B76CC726873a6ef7b26BaB1
+deployed Owned in 
+deployed SafeDecimalMath in 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999
+deployed Math in 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4
+deployed PublicSafeDecimalMath in 0xe0C3Ec6F86dc97fa2776c650ff90cE31CD7E8dfC
+deployed PublicMath in 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa
+deployed AddressResolver in 0x29353bf83305b53074A673E42843a3742947D22f
+deployed SystemStatus in 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77
+deployed ExchangeRates in 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5
+deployed SynthetixEscrow in 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9
+deployed RewardEscrow in 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92
+deployed SynthetixState in 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf
+deployed EternalStorage in 0x4E24998b4ab3a4F52C247c3dA37719353D332a54
+deployed DelegateApprovals in 0x7703770A666170d61D561eAd1209b312a118BC15
+deployed feePoolProxy Proxy in 0xcb5b94626C060DfF8903027e2cc89Fedd547C940
+deployed FeePoolState in 0x634618F59754580388867E4E2C8A918920Ce3E2B
+deployed FeePoolEternalStorage in 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772
+deployed FeePool in 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40
+deployed RewardsDistribution in 0xefdb599c8987410b1ded197fC331B33c49c39462
+deployed SupplySchedule in 0xF498A9D6301233d768615C108CF6898C7F1D8656
+deployed synthetixProxy Proxy in 0xEa217fCb815f50bc905A51CC57Ac1c29f9282F06
+deployed synthetixTokenState TokenState in 0x2bdC10605dfd937799BC005b8B125390E01195A2
+deployed Synthetix in 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F
+deployed TokenState in 0xF8898066996Ea91e1bFF972F3cbfC93ff313389e
+deployed Proxy in 0xC8D5a02Cfe79625FA6574025fFb504F122eA4385
+deployed Synth in 0x3fB8D9F56477F4c5DDEEF6792fC27e07B80E51f5
+deployed TokenState in 0x420D27d8139cb6dd5fA72c6e95ba8b52C45a11BC
+deployed Proxy in 0x1b3F4D5c929F7DC0e4353a93740353CaD56863bF
+deployed Synth in 0x023421147E1456F8927fF1EE72439205D1365592
+deployed TokenState in 0x44a4F8a2255589Eba5B6a96FAeB7cEBbf346a04b
+deployed Proxy in 0x3f22e565064719956BA1574Aa3eeFDAa879587D9
+deployed Synth in 0x25e89E4d446DbA26430cEfdE9c8a9820D8574978
+deployed TokenState in 0xf64fF647aB18fe5f615c88b24C1B250d8f9cF3C4
+deployed Proxy in 0x61770e43eCe1Aa807df031CA7c8eADA54A14e92B
+deployed Synth in 0x5aF96BEFd040c9064B025Dd5892C1eC8cA8824B9
+deployed TokenState in 0xB33436bD556E01eFf3BAA2f603b13c4132B7204F
+deployed Proxy in 0x7FdB4e2B5dC11b74E548C04817170eC0930D43D0
+deployed Synth in 0x2921E564CEb82eb1fB27A9A250d53cFFb24a6729
+deployed TokenState in 0x85Baa6c81515AE3cAF9eac8242b0049CcDa747D5
+deployed Proxy in 0xaB51d3DdFC23111ba608093091D0f25c5559D3e0
+deployed MultiCollateralSynth in 0x223333fb9b248089C3eCD4231e9E5047E527b8B7
+deployed Depot in 0x89D4240BF8374Ecb26EdF12F9A5647Bd2503D943
+deployed EtherCollateral in 0xce7440626263Ca36a2901A492975D5120207b497
+deployed SelfDestructible in 0x2DFFb1969a7095eDa8778B69DFdcd01fE4147634
+deployed Exchanger in 0x01DA4689FC0d5db12218e07702C3d32830fEeD2F
+deployed ExchangeState in 0x446131960ec9dB1653E194818a5cB572C1fD5ACd
+deployed Issuer in 0x1A17c9F63DCb42cB8d403D3865a258cd57F86Ed0
+
+
+╔══════════════════════════╤════════════════════════════════════════════╗
+║ Contract                 │ Address                                    ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ AddressResolver          │ 0x29353bf83305b53074A673E42843a3742947D22f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ DelegateApprovals        │ 0x7703770A666170d61D561eAd1209b312a118BC15 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ EtherCollateral          │ 0xce7440626263Ca36a2901A492975D5120207b497 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Exchange Rates           │ 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool                 │ 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Proxy           │ 0xcb5b94626C060DfF8903027e2cc89Fedd547C940 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool State           │ 0x634618F59754580388867E4E2C8A918920Ce3E2B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Eternal Storage │ 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix State          │ 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Token State    │ 0x2bdC10605dfd937799BC005b8B125390E01195A2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Proxy          │ 0xEa217fCb815f50bc905A51CC57Ac1c29f9282F06 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix                │ 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Escrow         │ 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Reward Escrow            │ 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Rewards Distribution     │ 0xefdb599c8987410b1ded197fC331B33c49c39462 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Depot                    │ 0x89D4240BF8374Ecb26EdF12F9A5647Bd2503D943 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Owned                    │ 0x3682C65dA8D8Ba16154d3909ED2E8E40aA9BDf7f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SafeDecimalMath          │ 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SelfDestructible         │ 0x2DFFb1969a7095eDa8778B69DFdcd01fE4147634 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuer                   │ 0x1A17c9F63DCb42cB8d403D3865a258cd57F86Ed0 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuance Eternal Storage │ 0x9A463a5F1c080aD94cC8FEC3fafA4238BBF74695 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Synth               │ 0x3fB8D9F56477F4c5DDEEF6792fC27e07B80E51f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Proxy               │ 0xC8D5a02Cfe79625FA6574025fFb504F122eA4385 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Token State         │ 0xF8898066996Ea91e1bFF972F3cbfC93ff313389e ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Synth               │ 0x023421147E1456F8927fF1EE72439205D1365592 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Proxy               │ 0x1b3F4D5c929F7DC0e4353a93740353CaD56863bF ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Token State         │ 0x420D27d8139cb6dd5fA72c6e95ba8b52C45a11BC ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Synth               │ 0x25e89E4d446DbA26430cEfdE9c8a9820D8574978 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Proxy               │ 0x3f22e565064719956BA1574Aa3eeFDAa879587D9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Token State         │ 0x44a4F8a2255589Eba5B6a96FAeB7cEBbf346a04b ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Synth               │ 0x5aF96BEFd040c9064B025Dd5892C1eC8cA8824B9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Proxy               │ 0x61770e43eCe1Aa807df031CA7c8eADA54A14e92B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Token State         │ 0xf64fF647aB18fe5f615c88b24C1B250d8f9cF3C4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Synth               │ 0x2921E564CEb82eb1fB27A9A250d53cFFb24a6729 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Proxy               │ 0x7FdB4e2B5dC11b74E548C04817170eC0930D43D0 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Token State         │ 0xB33436bD556E01eFf3BAA2f603b13c4132B7204F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Synth               │ 0x223333fb9b248089C3eCD4231e9E5047E527b8B7 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Proxy               │ 0xaB51d3DdFC23111ba608093091D0f25c5559D3e0 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Token State         │ 0x85Baa6c81515AE3cAF9eac8242b0049CcDa747D5 ║
+╚══════════════════════════╧════════════════════════════════════════════╝
+
+deployed Owned in 
+deployed SafeDecimalMath in 0xe1E91dd6Fc0C2572D1142BB14A3B205c9d3909E1
+deployed Math in 0x074e4d2800b04a97Ed0c4F1fc634b2d85c61A9A4
+deployed Owned in 
+deployed SafeDecimalMath in 0xa7AbE2E76893C407921DFFB666CD3373c43e662a
+deployed Math in 0x57e0AD6362B66D7253d0B47860B983dCFA8262E6
+deployed PublicSafeDecimalMath in 0xC5639AAF224FCCB865Bf7d95399B00322600599b
+deployed PublicMath in 0xFb9A7657F8A36ca9e61B0c510000e77fC7Ae338B
+deployed AddressResolver in 0x0C0F352E2C880F24e109e4de2Efce270EC43E173
+deployed SystemStatus in 0xb7d2b19Ed30596288A74688A18728b7BC09B9077
+deployed ExchangeRates in 0x2faD8550A96E907AFF87cB1E31b36afd0eb73d2f
+deployed SynthetixEscrow in 0x9B2e49028bb11179CB2953BC78C33C4c057e2c7d
+deployed RewardEscrow in 0x97c81ACa352Bba7Ae72342DB1063513650239fd5
+deployed SynthetixState in 0x2B7280f2274Cb5DF9A716531141d2D5d08F176E2
+deployed EternalStorage in 0x020D926C6Aa0A882ea846Acfea973787cf83267d
+deployed DelegateApprovals in 0xeedfAb0b090CdA48A34Cc4463BF4aFF376b630C4
+deployed feePoolProxy Proxy in 0xDe72A1f892d8edA29A69b2EfC987CE25C7DAEca2
+deployed FeePoolState in 0x875C14533AE504755E942c1b4b3e101dDbD2000c
+deployed FeePoolEternalStorage in 0x7F549E3f48f16c9a34DA6e3a2e0753EA53b0531f
+deployed FeePool in 0x0a627368bc435bb7E869E150fd7F63Cb0Ad81B3B
+deployed RewardsDistribution in 0xD2010AB86a53d68065a324ac102165D15Dad8cbE
+deployed SupplySchedule in 0xe99d979AD1822b3f6C7850677Fe8ABe6615ABfBB
+deployed synthetixProxy Proxy in 0x4c6e8dA4194c9B53c757BF70D1b7BaCbb24C0fcb
+deployed synthetixTokenState TokenState in 0x13937009967BB5209c082bC6593751176d30ade0
+deployed Synthetix in 0x7C19CD8502Edc83A04110EC93612D4EF448Ce102
+deployed TokenState in 0x3F65A2407aAAE7C0723AAa350BFA4719B63be9a4
+deployed Proxy in 0xC65eAd322A115356040E297d70D031a4C96AbA0D
+deployed Synth in 0x86AE3a7F7447C88EF9e0c0E1c5577eCd091800DB
+deployed TokenState in 0x8dC54c8149e7Fe60CD46AFe1b0a896DA53B1C607
+deployed Proxy in 0x60fB569eecC1eEb5B41903F72E43abB51Da05737
+deployed Synth in 0x565a733F7b68c171fe471A278D86b74b898ef6f5
+deployed TokenState in 0x2F45C3cA5d889aa4b95106B55fD017f9bb0dB23D
+deployed Proxy in 0xE36144092e314E09407deE7d38F9B067F80953D3
+deployed Synth in 0x7C82f59944462194FFB0EE3d8048AB756D77987F
+deployed TokenState in 0xf6Fe6Fb6714beadDbD8C9fd0952A89A47ac00037
+deployed Proxy in 0x7e089671070708C5AC82457aFd72bd0026D9F329
+deployed Synth in 0xd262be4D994dAd75F2d59337C2F1299939Ad9D9E
+deployed TokenState in 0x46f52a49A198455931E7C5c2A386AAde228050C8
+deployed Proxy in 0x5aA90f37Ee11811201F28A55E9fBcc4Cb8a57CA4
+deployed Synth in 0xbae102805b9CA5E573932027Ce996e6Bd01FD4b4
+deployed TokenState in 0xBdF6dFd9c2ce976fe4Af6df9C87948012883d923
+deployed Proxy in 0x68D7C0D98eE9543E3ea4Ba4dC81b0304da780890
+deployed MultiCollateralSynth in 0x48aEa0C1a24299BB047C34122de17ea1342540cA
+deployed Depot in 0x522075Eb5f5D17fBfE9F2575322Afcfa8D944017
+deployed EtherCollateral in 0x7C69f34F2EA1f31be11A04B9ebdc4A326ed76d49
+deployed SelfDestructible in 0xab85b64EbF28b029a646961Dc2B8a90774315254
+deployed Exchanger in 0xEdE37c69fA9245c06E9F10a32348e03F68bCB863
+deployed ExchangeState in 0xC66453F68c167a64aE060adAf68A0E8CbA4bA665
+deployed Issuer in 0xd170C2AABAda9AEC20dBE00E9E5bb5eE46Da9016
+
+
+╔══════════════════════════╤════════════════════════════════════════════╗
+║ Contract                 │ Address                                    ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ AddressResolver          │ 0x0C0F352E2C880F24e109e4de2Efce270EC43E173 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ DelegateApprovals        │ 0xeedfAb0b090CdA48A34Cc4463BF4aFF376b630C4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ EtherCollateral          │ 0x7C69f34F2EA1f31be11A04B9ebdc4A326ed76d49 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Exchange Rates           │ 0x2faD8550A96E907AFF87cB1E31b36afd0eb73d2f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool                 │ 0x0a627368bc435bb7E869E150fd7F63Cb0Ad81B3B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Proxy           │ 0xDe72A1f892d8edA29A69b2EfC987CE25C7DAEca2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool State           │ 0x875C14533AE504755E942c1b4b3e101dDbD2000c ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Eternal Storage │ 0x7F549E3f48f16c9a34DA6e3a2e0753EA53b0531f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix State          │ 0x2B7280f2274Cb5DF9A716531141d2D5d08F176E2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Token State    │ 0x13937009967BB5209c082bC6593751176d30ade0 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Proxy          │ 0x4c6e8dA4194c9B53c757BF70D1b7BaCbb24C0fcb ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix                │ 0x7C19CD8502Edc83A04110EC93612D4EF448Ce102 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Escrow         │ 0x9B2e49028bb11179CB2953BC78C33C4c057e2c7d ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Reward Escrow            │ 0x97c81ACa352Bba7Ae72342DB1063513650239fd5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Rewards Distribution     │ 0xD2010AB86a53d68065a324ac102165D15Dad8cbE ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Depot                    │ 0x522075Eb5f5D17fBfE9F2575322Afcfa8D944017 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Owned                    │ 0xC6b896becbb5401726174CD596d1488787AFeb79 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SafeDecimalMath          │ 0xa7AbE2E76893C407921DFFB666CD3373c43e662a ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SelfDestructible         │ 0xab85b64EbF28b029a646961Dc2B8a90774315254 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuer                   │ 0xd170C2AABAda9AEC20dBE00E9E5bb5eE46Da9016 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuance Eternal Storage │ 0xfc68720A79992bAa8c959fac132dE88d01635D15 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Synth               │ 0x86AE3a7F7447C88EF9e0c0E1c5577eCd091800DB ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Proxy               │ 0xC65eAd322A115356040E297d70D031a4C96AbA0D ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Token State         │ 0x3F65A2407aAAE7C0723AAa350BFA4719B63be9a4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Synth               │ 0x565a733F7b68c171fe471A278D86b74b898ef6f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Proxy               │ 0x60fB569eecC1eEb5B41903F72E43abB51Da05737 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Token State         │ 0x8dC54c8149e7Fe60CD46AFe1b0a896DA53B1C607 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Synth               │ 0x7C82f59944462194FFB0EE3d8048AB756D77987F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Proxy               │ 0xE36144092e314E09407deE7d38F9B067F80953D3 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Token State         │ 0x2F45C3cA5d889aa4b95106B55fD017f9bb0dB23D ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Synth               │ 0xd262be4D994dAd75F2d59337C2F1299939Ad9D9E ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Proxy               │ 0x7e089671070708C5AC82457aFd72bd0026D9F329 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Token State         │ 0xf6Fe6Fb6714beadDbD8C9fd0952A89A47ac00037 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Synth               │ 0xbae102805b9CA5E573932027Ce996e6Bd01FD4b4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Proxy               │ 0x5aA90f37Ee11811201F28A55E9fBcc4Cb8a57CA4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Token State         │ 0x46f52a49A198455931E7C5c2A386AAde228050C8 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Synth               │ 0x48aEa0C1a24299BB047C34122de17ea1342540cA ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Proxy               │ 0x68D7C0D98eE9543E3ea4Ba4dC81b0304da780890 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Token State         │ 0xBdF6dFd9c2ce976fe4Af6df9C87948012883d923 ║
+╚══════════════════════════╧════════════════════════════════════════════╝
+deployed Owned in 
+deployed SafeDecimalMath in 0xE3212E39242De4b485d17711E1309925aD38f94e
+deployed Math in 0xbF2ad8af0BFFD2085fE620C2Aa95981Cf1418a50
+deployed PublicSafeDecimalMath in 0x1706cF5a8184d47A9dF3558594A7F804D511152C
+deployed PublicMath in 0x0B7c9b2E12cc1c1Dc670CD7d22b3B46Af5264d12
+deployed AddressResolver in 0x707c91ed6f8dF67A1978f2B252C43A47605f411B
+deployed SystemStatus in 0x3DA032fd9B985Dd534EA84cf1a1B8f98943B64C9
+deployed ExchangeRates in 0x09D88D7b7D50003785840Ae96DAe31595257CcCF
+deployed SynthetixEscrow in 0xDf4Ce8df744684b239eB434eBDBe13c38Ea3B9b9
+deployed RewardEscrow in 0xa5907d72A7216065b2628a5aeF2f2f5b979d66a3
+deployed SynthetixState in 0xbcB97937C6ED3a7db443f6f50190507c153b4742
+deployed EternalStorage in 0x66096af2CaFB7873DDA85326361cB4fa80cEDeC8
+deployed DelegateApprovals in 0x8A0b9AE351622b1dB0F21098c2981c52c5a26518
+deployed feePoolProxy Proxy in 0x156337F2286d9B90B45B52DB346D0e2Ccd477B87
+deployed FeePoolState in 0x2A2E5a5fF0F204208498756Ccf4C18405187b749
+deployed FeePoolEternalStorage in 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6
+deployed FeePool in 0x54df76a820a64fD7B439F91cbf7A33aCfC11a888
+deployed RewardsDistribution in 0xE876BFea07503321A6f6d7CF4680FBdF808282E9
+deployed SupplySchedule in 0x88574C7f169d1D2b6B068415DA57127D9b92C151
+deployed synthetixProxy Proxy in 0x7509dc92e7E4fAF0379Ba64A83474B7f999c4FF9
+deployed synthetixTokenState TokenState in 0xFfbAfdcE931ff8B16B76CC726873a6ef7b26BaB1
+deployed Owned in 
+deployed SafeDecimalMath in 0x2547f02bb3f6C6A063f7929Ad4169043b2718740
+deployed Math in 0x185610Ae8d4Ed1263678349CbE63B964C0BaEeec
+deployed PublicSafeDecimalMath in 0x3682C65dA8D8Ba16154d3909ED2E8E40aA9BDf7f
+deployed PublicMath in 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999
+deployed AddressResolver in 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4
+deployed SystemStatus in 0xe0C3Ec6F86dc97fa2776c650ff90cE31CD7E8dfC
+deployed ExchangeRates in 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa
+deployed SynthetixEscrow in 0x29353bf83305b53074A673E42843a3742947D22f
+deployed RewardEscrow in 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77
+deployed SynthetixState in 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5
+deployed EternalStorage in 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9
+deployed DelegateApprovals in 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92
+deployed feePoolProxy Proxy in 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf
+deployed FeePoolState in 0x4E24998b4ab3a4F52C247c3dA37719353D332a54
+deployed FeePoolEternalStorage in 0x7703770A666170d61D561eAd1209b312a118BC15
+deployed FeePool in 0xcb5b94626C060DfF8903027e2cc89Fedd547C940
+deployed RewardsDistribution in 0x634618F59754580388867E4E2C8A918920Ce3E2B
+deployed SupplySchedule in 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772
+deployed synthetixProxy Proxy in 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40
+deployed synthetixTokenState TokenState in 0xefdb599c8987410b1ded197fC331B33c49c39462
+deployed Synthetix in 0xF498A9D6301233d768615C108CF6898C7F1D8656
+deployed TokenState in 0x2bdC10605dfd937799BC005b8B125390E01195A2
+deployed Proxy in 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F
+deployed Synth in 0x9248d1aEfF24Ee0468D1a5479A07c94099e7030a
+deployed TokenState in 0xF8898066996Ea91e1bFF972F3cbfC93ff313389e
+deployed Proxy in 0xC8D5a02Cfe79625FA6574025fFb504F122eA4385
+deployed Synth in 0x3fB8D9F56477F4c5DDEEF6792fC27e07B80E51f5
+deployed TokenState in 0x420D27d8139cb6dd5fA72c6e95ba8b52C45a11BC
+deployed Proxy in 0x1b3F4D5c929F7DC0e4353a93740353CaD56863bF
+deployed Synth in 0x023421147E1456F8927fF1EE72439205D1365592
+deployed TokenState in 0x44a4F8a2255589Eba5B6a96FAeB7cEBbf346a04b
+deployed Proxy in 0x3f22e565064719956BA1574Aa3eeFDAa879587D9
+deployed Synth in 0x25e89E4d446DbA26430cEfdE9c8a9820D8574978
+deployed TokenState in 0xf64fF647aB18fe5f615c88b24C1B250d8f9cF3C4
+deployed Proxy in 0x61770e43eCe1Aa807df031CA7c8eADA54A14e92B
+deployed Synth in 0x5aF96BEFd040c9064B025Dd5892C1eC8cA8824B9
+deployed TokenState in 0xB33436bD556E01eFf3BAA2f603b13c4132B7204F
+deployed Proxy in 0x7FdB4e2B5dC11b74E548C04817170eC0930D43D0
+deployed MultiCollateralSynth in 0x2921E564CEb82eb1fB27A9A250d53cFFb24a6729
+deployed Depot in 0x85Baa6c81515AE3cAF9eac8242b0049CcDa747D5
+deployed EtherCollateral in 0xaB51d3DdFC23111ba608093091D0f25c5559D3e0
+deployed SelfDestructible in 0x223333fb9b248089C3eCD4231e9E5047E527b8B7
+deployed Exchanger in 0x89D4240BF8374Ecb26EdF12F9A5647Bd2503D943
+deployed ExchangeState in 0xce7440626263Ca36a2901A492975D5120207b497
+deployed Issuer in 0x2DFFb1969a7095eDa8778B69DFdcd01fE4147634
+
+╔══════════════════════════╤════════════════════════════════════════════╗
+║ Contract                 │ Address                                    ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ AddressResolver          │ 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ DelegateApprovals        │ 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ EtherCollateral          │ 0xaB51d3DdFC23111ba608093091D0f25c5559D3e0 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Exchange Rates           │ 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool                 │ 0xcb5b94626C060DfF8903027e2cc89Fedd547C940 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Proxy           │ 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool State           │ 0x4E24998b4ab3a4F52C247c3dA37719353D332a54 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Eternal Storage │ 0x7703770A666170d61D561eAd1209b312a118BC15 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix State          │ 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Token State    │ 0xefdb599c8987410b1ded197fC331B33c49c39462 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Proxy          │ 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix                │ 0xF498A9D6301233d768615C108CF6898C7F1D8656 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Escrow         │ 0x29353bf83305b53074A673E42843a3742947D22f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Reward Escrow            │ 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Rewards Distribution     │ 0x634618F59754580388867E4E2C8A918920Ce3E2B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Depot                    │ 0x85Baa6c81515AE3cAF9eac8242b0049CcDa747D5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Owned                    │ 0x6bbb39e2ea8fd4cc379D783Fd2Ca7F248C261bE2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SafeDecimalMath          │ 0x2547f02bb3f6C6A063f7929Ad4169043b2718740 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SelfDestructible         │ 0x223333fb9b248089C3eCD4231e9E5047E527b8B7 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuer                   │ 0x2DFFb1969a7095eDa8778B69DFdcd01fE4147634 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuance Eternal Storage │ 0x01DA4689FC0d5db12218e07702C3d32830fEeD2F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Synth               │ 0x9248d1aEfF24Ee0468D1a5479A07c94099e7030a ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Proxy               │ 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Token State         │ 0x2bdC10605dfd937799BC005b8B125390E01195A2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Synth               │ 0x3fB8D9F56477F4c5DDEEF6792fC27e07B80E51f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Proxy               │ 0xC8D5a02Cfe79625FA6574025fFb504F122eA4385 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Token State         │ 0xF8898066996Ea91e1bFF972F3cbfC93ff313389e ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Synth               │ 0x023421147E1456F8927fF1EE72439205D1365592 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Proxy               │ 0x1b3F4D5c929F7DC0e4353a93740353CaD56863bF ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Token State         │ 0x420D27d8139cb6dd5fA72c6e95ba8b52C45a11BC ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Synth               │ 0x25e89E4d446DbA26430cEfdE9c8a9820D8574978 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Proxy               │ 0x3f22e565064719956BA1574Aa3eeFDAa879587D9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Token State         │ 0x44a4F8a2255589Eba5B6a96FAeB7cEBbf346a04b ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Synth               │ 0x5aF96BEFd040c9064B025Dd5892C1eC8cA8824B9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Proxy               │ 0x61770e43eCe1Aa807df031CA7c8eADA54A14e92B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Token State         │ 0xf64fF647aB18fe5f615c88b24C1B250d8f9cF3C4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Synth               │ 0x2921E564CEb82eb1fB27A9A250d53cFFb24a6729 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Proxy               │ 0x7FdB4e2B5dC11b74E548C04817170eC0930D43D0 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Token State         │ 0xB33436bD556E01eFf3BAA2f603b13c4132B7204F ║
+╚══════════════════════════╧════════════════════════════════════════════╝deployed Owned in 
+deployed SafeDecimalMath in 0xE3212E39242De4b485d17711E1309925aD38f94e
+deployed Math in 0xbF2ad8af0BFFD2085fE620C2Aa95981Cf1418a50
+deployed PublicSafeDecimalMath in 0x1706cF5a8184d47A9dF3558594A7F804D511152C
+deployed PublicMath in 0x0B7c9b2E12cc1c1Dc670CD7d22b3B46Af5264d12
+deployed AddressResolver in 0x707c91ed6f8dF67A1978f2B252C43A47605f411B
+deployed SystemStatus in 0x3DA032fd9B985Dd534EA84cf1a1B8f98943B64C9
+deployed ExchangeRates in 0x09D88D7b7D50003785840Ae96DAe31595257CcCF
+deployed SynthetixEscrow in 0xDf4Ce8df744684b239eB434eBDBe13c38Ea3B9b9
+deployed RewardEscrow in 0xa5907d72A7216065b2628a5aeF2f2f5b979d66a3
+deployed SynthetixState in 0xbcB97937C6ED3a7db443f6f50190507c153b4742
+deployed EternalStorage in 0x66096af2CaFB7873DDA85326361cB4fa80cEDeC8
+deployed DelegateApprovals in 0x8A0b9AE351622b1dB0F21098c2981c52c5a26518
+deployed feePoolProxy Proxy in 0x156337F2286d9B90B45B52DB346D0e2Ccd477B87
+deployed FeePoolState in 0x2A2E5a5fF0F204208498756Ccf4C18405187b749
+deployed FeePoolEternalStorage in 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6
+deployed FeePool in 0x54df76a820a64fD7B439F91cbf7A33aCfC11a888
+deployed RewardsDistribution in 0xE876BFea07503321A6f6d7CF4680FBdF808282E9
+deployed SupplySchedule in 0x88574C7f169d1D2b6B068415DA57127D9b92C151
+deployed synthetixProxy Proxy in 0x7509dc92e7E4fAF0379Ba64A83474B7f999c4FF9
+deployed synthetixTokenState TokenState in 0xFfbAfdcE931ff8B16B76CC726873a6ef7b26BaB1
+deployed Synthetix in 0x7B39c6a53F9e7f16AD19e9028f5092730961D1eb
+deployed TokenState in 0x6bbb39e2ea8fd4cc379D783Fd2Ca7F248C261bE2
+deployed Proxy in 0x2547f02bb3f6C6A063f7929Ad4169043b2718740
+deployed Synth in 0x185610Ae8d4Ed1263678349CbE63B964C0BaEeec
+deployed TokenState in 0x3682C65dA8D8Ba16154d3909ED2E8E40aA9BDf7f
+deployed Proxy in 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999
+deployed Synth in 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4
+deployed TokenState in 0xe0C3Ec6F86dc97fa2776c650ff90cE31CD7E8dfC
+deployed Proxy in 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa
+deployed Synth in 0x29353bf83305b53074A673E42843a3742947D22f
+deployed TokenState in 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77
+deployed Proxy in 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5
+deployed Synth in 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9
+deployed TokenState in 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92
+deployed Proxy in 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf
+deployed Synth in 0x4E24998b4ab3a4F52C247c3dA37719353D332a54
+deployed TokenState in 0x7703770A666170d61D561eAd1209b312a118BC15
+deployed Proxy in 0xcb5b94626C060DfF8903027e2cc89Fedd547C940
+deployed MultiCollateralSynth in 0x634618F59754580388867E4E2C8A918920Ce3E2B
+deployed Depot in 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772
+deployed EtherCollateral in 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40
+deployed SelfDestructible in 0xefdb599c8987410b1ded197fC331B33c49c39462
+deployed Exchanger in 0xF498A9D6301233d768615C108CF6898C7F1D8656
+deployed ExchangeState in 0xEa217fCb815f50bc905A51CC57Ac1c29f9282F06
+deployed Issuer in 0x2bdC10605dfd937799BC005b8B125390E01195A2
+
+
+╔══════════════════════════╤════════════════════════════════════════════╗
+║ Contract                 │ Address                                    ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ AddressResolver          │ 0x707c91ed6f8dF67A1978f2B252C43A47605f411B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ DelegateApprovals        │ 0x8A0b9AE351622b1dB0F21098c2981c52c5a26518 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ EtherCollateral          │ 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Exchange Rates           │ 0x09D88D7b7D50003785840Ae96DAe31595257CcCF ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool                 │ 0x54df76a820a64fD7B439F91cbf7A33aCfC11a888 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Proxy           │ 0x156337F2286d9B90B45B52DB346D0e2Ccd477B87 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool State           │ 0x2A2E5a5fF0F204208498756Ccf4C18405187b749 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Eternal Storage │ 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix State          │ 0xbcB97937C6ED3a7db443f6f50190507c153b4742 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Token State    │ 0xFfbAfdcE931ff8B16B76CC726873a6ef7b26BaB1 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Proxy          │ 0x7509dc92e7E4fAF0379Ba64A83474B7f999c4FF9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix                │ 0x7B39c6a53F9e7f16AD19e9028f5092730961D1eb ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Escrow         │ 0xDf4Ce8df744684b239eB434eBDBe13c38Ea3B9b9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Reward Escrow            │ 0xa5907d72A7216065b2628a5aeF2f2f5b979d66a3 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Rewards Distribution     │ 0xE876BFea07503321A6f6d7CF4680FBdF808282E9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Depot                    │ 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Owned                    │ 0xB00127Cb28Bc1167fB785E9c54204b04B84B1294 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SafeDecimalMath          │ 0xE3212E39242De4b485d17711E1309925aD38f94e ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SelfDestructible         │ 0xefdb599c8987410b1ded197fC331B33c49c39462 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuer                   │ 0x2bdC10605dfd937799BC005b8B125390E01195A2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuance Eternal Storage │ 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Synth               │ 0x185610Ae8d4Ed1263678349CbE63B964C0BaEeec ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Proxy               │ 0x2547f02bb3f6C6A063f7929Ad4169043b2718740 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Token State         │ 0x6bbb39e2ea8fd4cc379D783Fd2Ca7F248C261bE2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Synth               │ 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Proxy               │ 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Token State         │ 0x3682C65dA8D8Ba16154d3909ED2E8E40aA9BDf7f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Synth               │ 0x29353bf83305b53074A673E42843a3742947D22f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Proxy               │ 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Token State         │ 0xe0C3Ec6F86dc97fa2776c650ff90cE31CD7E8dfC ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Synth               │ 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Proxy               │ 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Token State         │ 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Synth               │ 0x4E24998b4ab3a4F52C247c3dA37719353D332a54 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Proxy               │ 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Token State         │ 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Synth               │ 0x634618F59754580388867E4E2C8A918920Ce3E2B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Proxy               │ 0xcb5b94626C060DfF8903027e2cc89Fedd547C940 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Token State         │ 0x7703770A666170d61D561eAd1209b312a118BC15 ║
+╚══════════════════════════╧════════════════════════════════════════════╝deployed Owned in 
+deployed SafeDecimalMath in 0xE3212E39242De4b485d17711E1309925aD38f94e
+deployed Math in 0xbF2ad8af0BFFD2085fE620C2Aa95981Cf1418a50
+deployed PublicSafeDecimalMath in 0x1706cF5a8184d47A9dF3558594A7F804D511152C
+deployed PublicMath in 0x0B7c9b2E12cc1c1Dc670CD7d22b3B46Af5264d12
+deployed AddressResolver in 0x707c91ed6f8dF67A1978f2B252C43A47605f411B
+deployed SystemStatus in 0x3DA032fd9B985Dd534EA84cf1a1B8f98943B64C9
+deployed ExchangeRates in 0x09D88D7b7D50003785840Ae96DAe31595257CcCF
+deployed SynthetixEscrow in 0xDf4Ce8df744684b239eB434eBDBe13c38Ea3B9b9
+deployed RewardEscrow in 0xa5907d72A7216065b2628a5aeF2f2f5b979d66a3
+deployed SynthetixState in 0xbcB97937C6ED3a7db443f6f50190507c153b4742
+deployed EternalStorage in 0x66096af2CaFB7873DDA85326361cB4fa80cEDeC8
+deployed DelegateApprovals in 0x8A0b9AE351622b1dB0F21098c2981c52c5a26518
+deployed feePoolProxy Proxy in 0x156337F2286d9B90B45B52DB346D0e2Ccd477B87
+deployed FeePoolState in 0x2A2E5a5fF0F204208498756Ccf4C18405187b749
+deployed FeePoolEternalStorage in 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6
+deployed FeePool in 0x54df76a820a64fD7B439F91cbf7A33aCfC11a888
+deployed RewardsDistribution in 0xE876BFea07503321A6f6d7CF4680FBdF808282E9
+deployed SupplySchedule in 0x88574C7f169d1D2b6B068415DA57127D9b92C151
+deployed synthetixProxy Proxy in 0x7509dc92e7E4fAF0379Ba64A83474B7f999c4FF9
+deployed synthetixTokenState TokenState in 0xFfbAfdcE931ff8B16B76CC726873a6ef7b26BaB1
+deployed Synthetix in 0x7B39c6a53F9e7f16AD19e9028f5092730961D1eb
+deployed TokenState in 0x6bbb39e2ea8fd4cc379D783Fd2Ca7F248C261bE2
+deployed Proxy in 0x2547f02bb3f6C6A063f7929Ad4169043b2718740
+deployed Synth in 0x185610Ae8d4Ed1263678349CbE63B964C0BaEeec
+deployed TokenState in 0x3682C65dA8D8Ba16154d3909ED2E8E40aA9BDf7f
+deployed Proxy in 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999
+deployed Synth in 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4
+deployed TokenState in 0xe0C3Ec6F86dc97fa2776c650ff90cE31CD7E8dfC
+deployed Proxy in 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa
+deployed Synth in 0x29353bf83305b53074A673E42843a3742947D22f
+deployed TokenState in 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77
+deployed Proxy in 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5
+deployed Synth in 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9
+deployed TokenState in 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92
+deployed Proxy in 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf
+deployed Synth in 0x4E24998b4ab3a4F52C247c3dA37719353D332a54
+deployed TokenState in 0x7703770A666170d61D561eAd1209b312a118BC15
+deployed Proxy in 0xcb5b94626C060DfF8903027e2cc89Fedd547C940
+deployed MultiCollateralSynth in 0x634618F59754580388867E4E2C8A918920Ce3E2B
+deployed Depot in 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772
+deployed EtherCollateral in 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40
+deployed SelfDestructible in 0xefdb599c8987410b1ded197fC331B33c49c39462
+deployed Exchanger in 0xF498A9D6301233d768615C108CF6898C7F1D8656
+deployed ExchangeState in 0xEa217fCb815f50bc905A51CC57Ac1c29f9282F06
+deployed Issuer in 0x2bdC10605dfd937799BC005b8B125390E01195A2
+
+
+╔══════════════════════════╤════════════════════════════════════════════╗
+║ Contract                 │ Address                                    ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ AddressResolver          │ 0x707c91ed6f8dF67A1978f2B252C43A47605f411B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ DelegateApprovals        │ 0x8A0b9AE351622b1dB0F21098c2981c52c5a26518 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ EtherCollateral          │ 0x19e04ae6D48b6C1b44b0F8210921f29379eB7B40 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Exchange Rates           │ 0x09D88D7b7D50003785840Ae96DAe31595257CcCF ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool                 │ 0x54df76a820a64fD7B439F91cbf7A33aCfC11a888 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Proxy           │ 0x156337F2286d9B90B45B52DB346D0e2Ccd477B87 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool State           │ 0x2A2E5a5fF0F204208498756Ccf4C18405187b749 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Fee Pool Eternal Storage │ 0xc1d83F6FAd095557E3fB7e6AB386AbEF82073Ef6 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix State          │ 0xbcB97937C6ED3a7db443f6f50190507c153b4742 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Token State    │ 0xFfbAfdcE931ff8B16B76CC726873a6ef7b26BaB1 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Proxy          │ 0x7509dc92e7E4fAF0379Ba64A83474B7f999c4FF9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix                │ 0x7B39c6a53F9e7f16AD19e9028f5092730961D1eb ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Synthetix Escrow         │ 0xDf4Ce8df744684b239eB434eBDBe13c38Ea3B9b9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Reward Escrow            │ 0xa5907d72A7216065b2628a5aeF2f2f5b979d66a3 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Rewards Distribution     │ 0xE876BFea07503321A6f6d7CF4680FBdF808282E9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Depot                    │ 0x2c47CF8e2Ad10c7520881E63E55A5FAd5c114772 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Owned                    │ 0xB00127Cb28Bc1167fB785E9c54204b04B84B1294 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SafeDecimalMath          │ 0xE3212E39242De4b485d17711E1309925aD38f94e ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ SelfDestructible         │ 0xefdb599c8987410b1ded197fC331B33c49c39462 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuer                   │ 0x2bdC10605dfd937799BC005b8B125390E01195A2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ Issuance Eternal Storage │ 0xefE2FAAE0e64C3Acb675f1cb1DA8BE726803D38F ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Synth               │ 0x185610Ae8d4Ed1263678349CbE63B964C0BaEeec ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Proxy               │ 0x2547f02bb3f6C6A063f7929Ad4169043b2718740 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sUSD Token State         │ 0x6bbb39e2ea8fd4cc379D783Fd2Ca7F248C261bE2 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Synth               │ 0x51F4a747A40bfF232BDF33710AEF6D8263481Bd4 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Proxy               │ 0xB7cf2008242Fb9ed8A5b6dd6FcA7165F58Be9999 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sAUD Token State         │ 0x3682C65dA8D8Ba16154d3909ED2E8E40aA9BDf7f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Synth               │ 0x29353bf83305b53074A673E42843a3742947D22f ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Proxy               │ 0xd1d862Cf83764015e9a9fdd8ddaB41E7091B1bDa ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sEUR Token State         │ 0xe0C3Ec6F86dc97fa2776c650ff90cE31CD7E8dfC ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Synth               │ 0xAFe4C609d108670c9Dd690349FC7697278FA3cD9 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Proxy               │ 0x0EA62bc235F4CFF91fC14d20f48bf4C2a2a6F0f5 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sBTC Token State         │ 0x767CfFd0CBE86a8e3ABE3c85AC5c8Ca954AEfb77 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Synth               │ 0x4E24998b4ab3a4F52C247c3dA37719353D332a54 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Proxy               │ 0x7E80363CF1594884abd5B81317268Bc9A11B1bAf ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ iBTC Token State         │ 0x97e1140d65ca941ddE69c7d21ebC403cE9943C92 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Synth               │ 0x634618F59754580388867E4E2C8A918920Ce3E2B ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Proxy               │ 0xcb5b94626C060DfF8903027e2cc89Fedd547C940 ║
+╟──────────────────────────┼────────────────────────────────────────────╢
+║ sETH Token State         │ 0x7703770A666170d61D561eAd1209b312a118BC15 ║
+╚══════════════════════════╧════════════════════════════════════════════╝

@@ -81,7 +81,7 @@ contract ExternStateToken is SelfDestructible, Proxyable {
 
     function _internalTransfer(address from, address to, uint value) internal returns (bool) {
         /* Disallow transfers to irretrievable-addresses. */
-        require(to != address(0) && to != address(this) && to != address(proxy), "Cannot transfer to this address");
+        // require(to != address(0) && to != address(this) && to != address(proxy), "Cannot transfer to this address");
 
         // Insufficient balance will be handled by the safe subtraction.
         tokenState.setBalanceOf(from, tokenState.balanceOf(from).sub(value));

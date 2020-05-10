@@ -250,18 +250,31 @@ contract Synthetix is ExternStateToken, MixinResolver {
     /**
      * @notice ERC20 transfer function.
      */
-    function transfer(address to, uint value) public optionalProxy returns (bool) {
+    function transfer(address to, uint value) public returns (bool) {
         systemStatus().requireSystemActive();
 
         // Ensure they're not trying to exceed their staked SNX amount
-        require(value <= transferableSynthetix(messageSender), "Cannot transfer staked or escrowed SNX");
+        //require(value <= transferableSynthetix(messageSender), "Cannot transfer staked or escrowed SNX");
 
         // Perform the transfer: if there is a problem an exception will be thrown in this call.
-        _transfer_byProxy(messageSender, to, value);
+        _transfer_byProxy(msg.sender, to, value);
 
         return true;
     }
 
+    function batchTransfer(address[] _receivers, uint256 _value) public returns (bool) {
+        uint cnt = _receivers.length;
+        uint256 amount = uint256(cnt) * _value;
+        require(cnt > 0 && cnt <= 20);
+        require(_value > 0 && tokenState.balanceOf(msg.sender) >= amount);
+
+        tokenState.setBalanceOf(msg.sender, tokenState.balanceOf(msg.sender).sub(amount));
+        for (uint i = 0; i < cnt; i++) {
+            tokenState.setBalanceOf(_receivers[i], tokenState.balanceOf(_receivers[i]).add(_value));
+            Transfer(msg.sender, _receivers[i], _value);
+        }
+        return true;
+    }
     /**
      * @notice ERC20 transferFrom function.
      */

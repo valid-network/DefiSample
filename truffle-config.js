@@ -17,9 +17,8 @@
  * phrase from a file you've .gitignored so it doesn't accidentally become public.
  *
  */
-require('dotenv').config();
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const mnemonic = process.env.MNEMONIC;
+const mnemonic = 'theory soon stone treat increase route ensure lizard soldier salt catch domain';
 // const infuraKey = "fj4jll3k.....";
 //
 // const fs = require('fs');
@@ -43,10 +42,12 @@ module.exports = {
     // tab if you use this network and you must also set the `host`, `port` and `network_id`
     // options below to some value.
     //
+    // `http://3.81.26.93:8545/`
+    // 'http://3.81.26.93:8080/ropstenWeb3/jsonrpc/ZitZB2VMh2ZxnTSy9BB95JIqtEItXC'
     development: {
-      provider: () => new HDWalletProvider(mnemonic, `http://3.81.26.93:8080/ropstenWeb3/jsonrpc/ZitZB2VMh2ZxnTSy9BB95JIqtEItXC`, 0, 10),
+      provider: () => new HDWalletProvider(mnemonic, `http://3.81.26.93:8545/`, 0, 10),
       network_id: "*",
-      confirmations: 0,  
+      confirmations: 1,  
       timeoutBlocks: 200, 
       skipDryRun: true,
       gas: 7000000,
